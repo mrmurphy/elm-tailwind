@@ -1,5 +1,5 @@
 {
-    "version": "1.0.0",
+    "version": "2.0.0",
     "summary": "elm-tailwind. A stub of a library for using tailwind.css easily in Elm.",
     "repository": "https://github.com/splodingsocks/elm-tailwind.git",
     "license": "BSD3",
@@ -7,7 +7,8 @@
         "./src"
     ],
     "exposed-modules": [
-        "Tailwind"
+        "Tailwind",
+        "Tailwind.Classes"
     ],
     "dependencies": {
         "elm-lang/core": "5.1.1 <= v < 6.0.0",

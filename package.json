@@ -1,0 +1,26 @@
+{
+  "name": "elm-tailwind",
+  "version": "1.0.0",
+  "description": "Tailwind CSS to elm conversion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/splodingsocks/elm-tailwind.git"
+  },
+  "author": "Murphy Randle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/splodingsocks/elm-tailwind/issues"
+  },
+  "homepage": "https://github.com/splodingsocks/elm-tailwind#readme",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "lodash.flattendeep": "^4.4.0",
+    "lodash.replace": "^4.1.4",
+    "lodash.without": "^4.4.0",
+    "postcss": "^6.0.6"
+  }
+}
