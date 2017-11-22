@@ -13,7 +13,7 @@ They do however show the minifed css definition as their comment.
 
 # Classes and their Definitions
 
-@docs _m_0, _m_1, _m_2, _m_3, _m_4, _m_6, _m_8, _m_px, _mb_0, _mb_1, _mb_2, _mb_3, _mb_4, _mb_6, _mb_8, _mb_px, _ml_0, _ml_1, _ml_2, _ml_3, _ml_4, _ml_6, _ml_8, _ml_px, _mr_0, _mr_1, _mr_2, _mr_3, _mr_4, _mr_6, _mr_8, _mr_px, _mt_0, _mt_1, _mt_2, _mt_3, _mt_4, _mt_6, _mt_8, _mt_px, _mx_0, _mx_1, _mx_2, _mx_3, _mx_4, _mx_6, _mx_8, _mx_px, _my_0, _my_1, _my_2, _my_3, _my_4, _my_6, _my_8, _my_px, absolute, align_baseline, align_bottom, align_middle, align_text_bottom, align_text_top, align_top, antialiased, appearance_none, bg_black, bg_blue, bg_blue_dark, bg_blue_darker, bg_blue_darkest, bg_blue_light, bg_blue_lighter, bg_blue_lightest, bg_bottom, bg_center, bg_contain, bg_cover, bg_green, bg_green_dark, bg_green_darker, bg_green_darkest, bg_green_light, bg_green_lighter, bg_green_lightest, bg_grey, bg_grey_dark, bg_grey_darker, bg_grey_darkest, bg_grey_light, bg_grey_lighter, bg_grey_lightest, bg_indigo, bg_indigo_dark, bg_indigo_darker, bg_indigo_darkest, bg_indigo_light, bg_indigo_lighter, bg_indigo_lightest, bg_left, bg_left_bottom, bg_left_top, bg_orange, bg_orange_dark, bg_orange_darker, bg_orange_darkest, bg_orange_light, bg_orange_lighter, bg_orange_lightest, bg_pink, bg_pink_dark, bg_pink_darker, bg_pink_darkest, bg_pink_light, bg_pink_lighter, bg_pink_lightest, bg_purple, bg_purple_dark, bg_purple_darker, bg_purple_darkest, bg_purple_light, bg_purple_lighter, bg_purple_lightest, bg_red, bg_red_dark, bg_red_darker, bg_red_darkest, bg_red_light, bg_red_lighter, bg_red_lightest, bg_right, bg_right_bottom, bg_right_top, bg_teal, bg_teal_dark, bg_teal_darker, bg_teal_darkest, bg_teal_light, bg_teal_lighter, bg_teal_lightest, bg_top, bg_transparent, bg_white, bg_yellow, bg_yellow_dark, bg_yellow_darker, bg_yellow_darkest, bg_yellow_light, bg_yellow_lighter, bg_yellow_lightest, block, border, border_0, border_2, border_4, border_8, border_b, border_b_0, border_b_2, border_b_4, border_b_8, border_black, border_blue, border_blue_dark, border_blue_darker, border_blue_darkest, border_blue_light, border_blue_lighter, border_blue_lightest, border_dashed, border_dotted, border_green, border_green_dark, border_green_darker, border_green_darkest, border_green_light, border_green_lighter, border_green_lightest, border_grey, border_grey_dark, border_grey_darker, border_grey_darkest, border_grey_light, border_grey_lighter, border_grey_lightest, border_indigo, border_indigo_dark, border_indigo_darker, border_indigo_darkest, border_indigo_light, border_indigo_lighter, border_indigo_lightest, border_l, border_l_0, border_l_2, border_l_4, border_l_8, border_none, border_orange, border_orange_dark, border_orange_darker, border_orange_darkest, border_orange_light, border_orange_lighter, border_orange_lightest, border_pink, border_pink_dark, border_pink_darker, border_pink_darkest, border_pink_light, border_pink_lighter, border_pink_lightest, border_purple, border_purple_dark, border_purple_darker, border_purple_darkest, border_purple_light, border_purple_lighter, border_purple_lightest, border_r, border_r_0, border_r_2, border_r_4, border_r_8, border_red, border_red_dark, border_red_darker, border_red_darkest, border_red_light, border_red_lighter, border_red_lightest, border_solid, border_t, border_t_0, border_t_2, border_t_4, border_t_8, border_teal, border_teal_dark, border_teal_darker, border_teal_darkest, border_teal_light, border_teal_lighter, border_teal_lightest, border_transparent, border_white, border_yellow, border_yellow_dark, border_yellow_darker, border_yellow_darkest, border_yellow_light, border_yellow_lighter, border_yellow_lightest, break_normal, break_words, capitalize, clearfix, container, content_around, content_between, content_center, content_end, content_start, cursor_auto, cursor_default, cursor_not_allowed, cursor_pointer, fixed, flex, flex_1, flex_auto, flex_col, flex_col_reverse, flex_grow, flex_initial, flex_no_grow, flex_no_shrink, flex_no_wrap, flex_none, flex_row, flex_row_reverse, flex_shrink, flex_wrap, flex_wrap_reverse, float_left, float_none, float_right, font_black, font_bold, font_extrabold, font_hairline, font_light, font_medium, font_mono, font_normal, font_sans, font_semibold, font_serif, font_thin, h_1, h_10, h_12, h_16, h_2, h_24, h_3, h_32, h_4, h_48, h_6, h_64, h_8, h_auto, h_full, h_px, h_screen, hidden, hover, inline, inline_block, inline_flex, invisible, italic, items_baseline, items_center, items_end, items_start, items_stretch, justify_around, justify_between, justify_center, justify_end, justify_start, leading_loose, leading_none, leading_normal, leading_tight, lg, line_through, list_reset, lowercase, m_0, m_1, m_2, m_3, m_4, m_6, m_8, m_auto, m_px, max_h_full, max_h_screen, max_w_2xl, max_w_3xl, max_w_4xl, max_w_5xl, max_w_full, max_w_lg, max_w_md, max_w_sm, max_w_xl, max_w_xs, mb_0, mb_1, mb_2, mb_3, mb_4, mb_6, mb_8, mb_auto, mb_px, md, min_h_0, min_h_full, min_h_screen, min_w_0, min_w_full, ml_0, ml_1, ml_2, ml_3, ml_4, ml_6, ml_8, ml_auto, ml_px, mr_0, mr_1, mr_2, mr_3, mr_4, mr_6, mr_8, mr_auto, mr_px, mt_0, mt_1, mt_2, mt_3, mt_4, mt_6, mt_8, mt_auto, mt_px, mx_0, mx_1, mx_2, mx_3, mx_4, mx_6, mx_8, mx_auto, mx_px, my_0, my_1, my_2, my_3, my_4, my_6, my_8, my_auto, my_px, no_underline, normal_case, opacity_0, opacity_100, opacity_25, opacity_50, opacity_75, overflow_auto, overflow_hidden, overflow_scroll, overflow_visible, overflow_x_scroll, overflow_y_scroll, p_0, p_1, p_2, p_3, p_4, p_6, p_8, p_px, pb_0, pb_1, pb_2, pb_3, pb_4, pb_6, pb_8, pb_px, pin, pin_b, pin_l, pin_r, pin_t, pin_x, pin_y, pl_0, pl_1, pl_2, pl_3, pl_4, pl_6, pl_8, pl_px, pointer_events_auto, pointer_events_none, pr_0, pr_1, pr_2, pr_3, pr_4, pr_6, pr_8, pr_px, pt_0, pt_1, pt_2, pt_3, pt_4, pt_6, pt_8, pt_px, px_0, px_1, px_2, px_3, px_4, px_6, px_8, px_px, py_0, py_1, py_2, py_3, py_4, py_6, py_8, py_px, relative, resize_none, resize_x, resize_y, roman, rounded, rounded_b, rounded_b_full, rounded_b_lg, rounded_b_none, rounded_b_sm, rounded_bl, rounded_bl_full, rounded_bl_lg, rounded_bl_none, rounded_bl_sm, rounded_br, rounded_br_full, rounded_br_lg, rounded_br_none, rounded_br_sm, rounded_full, rounded_l, rounded_l_full, rounded_l_lg, rounded_l_none, rounded_l_sm, rounded_lg, rounded_none, rounded_r, rounded_r_full, rounded_r_lg, rounded_r_none, rounded_r_sm, rounded_sm, rounded_t, rounded_t_full, rounded_t_lg, rounded_t_none, rounded_t_sm, rounded_tl, rounded_tl_full, rounded_tl_lg, rounded_tl_none, rounded_tl_sm, rounded_tr, rounded_tr_full, rounded_tr_lg, rounded_tr_none, rounded_tr_sm, scrolling_auto, scrolling_touch, select_none, select_text, self_auto, self_center, self_end, self_start, self_stretch, shadow, shadow_inner, shadow_lg, shadow_md, shadow_none, sm, static, subpixel_antialiased, table, table_cell, table_row, text_2xl, text_3xl, text_4xl, text_5xl, text_base, text_black, text_blue, text_blue_dark, text_blue_darker, text_blue_darkest, text_blue_light, text_blue_lighter, text_blue_lightest, text_center, text_green, text_green_dark, text_green_darker, text_green_darkest, text_green_light, text_green_lighter, text_green_lightest, text_grey, text_grey_dark, text_grey_darker, text_grey_darkest, text_grey_light, text_grey_lighter, text_grey_lightest, text_indigo, text_indigo_dark, text_indigo_darker, text_indigo_darkest, text_indigo_light, text_indigo_lighter, text_indigo_lightest, text_justify, text_left, text_lg, text_orange, text_orange_dark, text_orange_darker, text_orange_darkest, text_orange_light, text_orange_lighter, text_orange_lightest, text_pink, text_pink_dark, text_pink_darker, text_pink_darkest, text_pink_light, text_pink_lighter, text_pink_lightest, text_purple, text_purple_dark, text_purple_darker, text_purple_darkest, text_purple_light, text_purple_lighter, text_purple_lightest, text_red, text_red_dark, text_red_darker, text_red_darkest, text_red_light, text_red_lighter, text_red_lightest, text_right, text_sm, text_teal, text_teal_dark, text_teal_darker, text_teal_darkest, text_teal_light, text_teal_lighter, text_teal_lightest, text_transparent, text_white, text_xl, text_xs, text_yellow, text_yellow_dark, text_yellow_darker, text_yellow_darkest, text_yellow_light, text_yellow_lighter, text_yellow_lightest, tracking_normal, tracking_tight, tracking_wide, truncate, underline, uppercase, visible, w_1, w_10, w_12, w_16, w_2, w_24, w_3, w_32, w_4, w_48, w_5, w_6, w_64, w_8, w_auto, w_full, w_px, w_screen, whitespace_no_wrap, whitespace_normal, whitespace_pre, whitespace_pre_line, whitespace_pre_wrap, xl, z_0, z_10, z_20, z_30, z_40, z_50, z_auto
+@docs neg_m_0, neg_m_1, neg_m_2, neg_m_3, neg_m_4, neg_m_6, neg_m_8, neg_m_px, neg_mb_0, neg_mb_1, neg_mb_2, neg_mb_3, neg_mb_4, neg_mb_6, neg_mb_8, neg_mb_px, neg_ml_0, neg_ml_1, neg_ml_2, neg_ml_3, neg_ml_4, neg_ml_6, neg_ml_8, neg_ml_px, neg_mr_0, neg_mr_1, neg_mr_2, neg_mr_3, neg_mr_4, neg_mr_6, neg_mr_8, neg_mr_px, neg_mt_0, neg_mt_1, neg_mt_2, neg_mt_3, neg_mt_4, neg_mt_6, neg_mt_8, neg_mt_px, neg_mx_0, neg_mx_1, neg_mx_2, neg_mx_3, neg_mx_4, neg_mx_6, neg_mx_8, neg_mx_px, neg_my_0, neg_my_1, neg_my_2, neg_my_3, neg_my_4, neg_my_6, neg_my_8, neg_my_px, absolute, align_baseline, align_bottom, align_middle, align_text_bottom, align_text_top, align_top, antialiased, appearance_none, bg_black, bg_blue, bg_blue_dark, bg_blue_darker, bg_blue_darkest, bg_blue_light, bg_blue_lighter, bg_blue_lightest, bg_bottom, bg_center, bg_contain, bg_cover, bg_green, bg_green_dark, bg_green_darker, bg_green_darkest, bg_green_light, bg_green_lighter, bg_green_lightest, bg_grey, bg_grey_dark, bg_grey_darker, bg_grey_darkest, bg_grey_light, bg_grey_lighter, bg_grey_lightest, bg_indigo, bg_indigo_dark, bg_indigo_darker, bg_indigo_darkest, bg_indigo_light, bg_indigo_lighter, bg_indigo_lightest, bg_left, bg_left_bottom, bg_left_top, bg_orange, bg_orange_dark, bg_orange_darker, bg_orange_darkest, bg_orange_light, bg_orange_lighter, bg_orange_lightest, bg_pink, bg_pink_dark, bg_pink_darker, bg_pink_darkest, bg_pink_light, bg_pink_lighter, bg_pink_lightest, bg_purple, bg_purple_dark, bg_purple_darker, bg_purple_darkest, bg_purple_light, bg_purple_lighter, bg_purple_lightest, bg_red, bg_red_dark, bg_red_darker, bg_red_darkest, bg_red_light, bg_red_lighter, bg_red_lightest, bg_right, bg_right_bottom, bg_right_top, bg_teal, bg_teal_dark, bg_teal_darker, bg_teal_darkest, bg_teal_light, bg_teal_lighter, bg_teal_lightest, bg_top, bg_transparent, bg_white, bg_yellow, bg_yellow_dark, bg_yellow_darker, bg_yellow_darkest, bg_yellow_light, bg_yellow_lighter, bg_yellow_lightest, block, border, border_0, border_2, border_4, border_8, border_b, border_b_0, border_b_2, border_b_4, border_b_8, border_black, border_blue, border_blue_dark, border_blue_darker, border_blue_darkest, border_blue_light, border_blue_lighter, border_blue_lightest, border_dashed, border_dotted, border_green, border_green_dark, border_green_darker, border_green_darkest, border_green_light, border_green_lighter, border_green_lightest, border_grey, border_grey_dark, border_grey_darker, border_grey_darkest, border_grey_light, border_grey_lighter, border_grey_lightest, border_indigo, border_indigo_dark, border_indigo_darker, border_indigo_darkest, border_indigo_light, border_indigo_lighter, border_indigo_lightest, border_l, border_l_0, border_l_2, border_l_4, border_l_8, border_none, border_orange, border_orange_dark, border_orange_darker, border_orange_darkest, border_orange_light, border_orange_lighter, border_orange_lightest, border_pink, border_pink_dark, border_pink_darker, border_pink_darkest, border_pink_light, border_pink_lighter, border_pink_lightest, border_purple, border_purple_dark, border_purple_darker, border_purple_darkest, border_purple_light, border_purple_lighter, border_purple_lightest, border_r, border_r_0, border_r_2, border_r_4, border_r_8, border_red, border_red_dark, border_red_darker, border_red_darkest, border_red_light, border_red_lighter, border_red_lightest, border_solid, border_t, border_t_0, border_t_2, border_t_4, border_t_8, border_teal, border_teal_dark, border_teal_darker, border_teal_darkest, border_teal_light, border_teal_lighter, border_teal_lightest, border_transparent, border_white, border_yellow, border_yellow_dark, border_yellow_darker, border_yellow_darkest, border_yellow_light, border_yellow_lighter, border_yellow_lightest, break_normal, break_words, capitalize, clearfix, container, content_around, content_between, content_center, content_end, content_start, cursor_auto, cursor_default, cursor_not_allowed, cursor_pointer, fixed, flex, flex_1, flex_auto, flex_col, flex_col_reverse, flex_grow, flex_initial, flex_no_grow, flex_no_shrink, flex_no_wrap, flex_none, flex_row, flex_row_reverse, flex_shrink, flex_wrap, flex_wrap_reverse, float_left, float_none, float_right, font_black, font_bold, font_extrabold, font_hairline, font_light, font_medium, font_mono, font_normal, font_sans, font_semibold, font_serif, font_thin, h_1, h_10, h_12, h_16, h_2, h_24, h_3, h_32, h_4, h_48, h_6, h_64, h_8, h_auto, h_full, h_px, h_screen, hidden, hover, inline, inline_block, inline_flex, invisible, italic, items_baseline, items_center, items_end, items_start, items_stretch, justify_around, justify_between, justify_center, justify_end, justify_start, leading_loose, leading_none, leading_normal, leading_tight, lg, line_through, list_reset, lowercase, m_0, m_1, m_2, m_3, m_4, m_6, m_8, m_auto, m_px, max_h_full, max_h_screen, max_w_2xl, max_w_3xl, max_w_4xl, max_w_5xl, max_w_full, max_w_lg, max_w_md, max_w_sm, max_w_xl, max_w_xs, mb_0, mb_1, mb_2, mb_3, mb_4, mb_6, mb_8, mb_auto, mb_px, md, min_h_0, min_h_full, min_h_screen, min_w_0, min_w_full, ml_0, ml_1, ml_2, ml_3, ml_4, ml_6, ml_8, ml_auto, ml_px, mr_0, mr_1, mr_2, mr_3, mr_4, mr_6, mr_8, mr_auto, mr_px, mt_0, mt_1, mt_2, mt_3, mt_4, mt_6, mt_8, mt_auto, mt_px, mx_0, mx_1, mx_2, mx_3, mx_4, mx_6, mx_8, mx_auto, mx_px, my_0, my_1, my_2, my_3, my_4, my_6, my_8, my_auto, my_px, no_underline, normal_case, opacity_0, opacity_100, opacity_25, opacity_50, opacity_75, overflow_auto, overflow_hidden, overflow_scroll, overflow_visible, overflow_x_scroll, overflow_y_scroll, p_0, p_1, p_2, p_3, p_4, p_6, p_8, p_px, pb_0, pb_1, pb_2, pb_3, pb_4, pb_6, pb_8, pb_px, pin, pin_b, pin_l, pin_r, pin_t, pin_x, pin_y, pl_0, pl_1, pl_2, pl_3, pl_4, pl_6, pl_8, pl_px, pointer_events_auto, pointer_events_none, pr_0, pr_1, pr_2, pr_3, pr_4, pr_6, pr_8, pr_px, pt_0, pt_1, pt_2, pt_3, pt_4, pt_6, pt_8, pt_px, px_0, px_1, px_2, px_3, px_4, px_6, px_8, px_px, py_0, py_1, py_2, py_3, py_4, py_6, py_8, py_px, relative, resize_none, resize_x, resize_y, roman, rounded, rounded_b, rounded_b_full, rounded_b_lg, rounded_b_none, rounded_b_sm, rounded_bl, rounded_bl_full, rounded_bl_lg, rounded_bl_none, rounded_bl_sm, rounded_br, rounded_br_full, rounded_br_lg, rounded_br_none, rounded_br_sm, rounded_full, rounded_l, rounded_l_full, rounded_l_lg, rounded_l_none, rounded_l_sm, rounded_lg, rounded_none, rounded_r, rounded_r_full, rounded_r_lg, rounded_r_none, rounded_r_sm, rounded_sm, rounded_t, rounded_t_full, rounded_t_lg, rounded_t_none, rounded_t_sm, rounded_tl, rounded_tl_full, rounded_tl_lg, rounded_tl_none, rounded_tl_sm, rounded_tr, rounded_tr_full, rounded_tr_lg, rounded_tr_none, rounded_tr_sm, scrolling_auto, scrolling_touch, select_none, select_text, self_auto, self_center, self_end, self_start, self_stretch, shadow, shadow_inner, shadow_lg, shadow_md, shadow_none, sm, static, subpixel_antialiased, table, table_cell, table_row, text_2xl, text_3xl, text_4xl, text_5xl, text_base, text_black, text_blue, text_blue_dark, text_blue_darker, text_blue_darkest, text_blue_light, text_blue_lighter, text_blue_lightest, text_center, text_green, text_green_dark, text_green_darker, text_green_darkest, text_green_light, text_green_lighter, text_green_lightest, text_grey, text_grey_dark, text_grey_darker, text_grey_darkest, text_grey_light, text_grey_lighter, text_grey_lightest, text_indigo, text_indigo_dark, text_indigo_darker, text_indigo_darkest, text_indigo_light, text_indigo_lighter, text_indigo_lightest, text_justify, text_left, text_lg, text_orange, text_orange_dark, text_orange_darker, text_orange_darkest, text_orange_light, text_orange_lighter, text_orange_lightest, text_pink, text_pink_dark, text_pink_darker, text_pink_darkest, text_pink_light, text_pink_lighter, text_pink_lightest, text_purple, text_purple_dark, text_purple_darker, text_purple_darkest, text_purple_light, text_purple_lighter, text_purple_lightest, text_red, text_red_dark, text_red_darker, text_red_darkest, text_red_light, text_red_lighter, text_red_lightest, text_right, text_sm, text_teal, text_teal_dark, text_teal_darker, text_teal_darkest, text_teal_light, text_teal_lighter, text_teal_lightest, text_transparent, text_white, text_xl, text_xs, text_yellow, text_yellow_dark, text_yellow_darker, text_yellow_darkest, text_yellow_light, text_yellow_lighter, text_yellow_lightest, tracking_normal, tracking_tight, tracking_wide, truncate, underline, uppercase, visible, w_1, w_10, w_12, w_16, w_2, w_24, w_3, w_32, w_4, w_48, w_5, w_6, w_64, w_8, w_auto, w_full, w_px, w_screen, whitespace_no_wrap, whitespace_normal, whitespace_pre, whitespace_pre_line, whitespace_pre_wrap, xl, z_0, z_10, z_20, z_30, z_40, z_50, z_auto
 
 -}
 
@@ -25,8 +25,8 @@ They do however show the minifed css definition as their comment.
     }
 
 -}
-_m_0 : String
-_m_0 =
+neg_m_0 : String
+neg_m_0 =
     "-m-0"
 
 
@@ -38,8 +38,8 @@ _m_0 =
     }
 
 -}
-_m_1 : String
-_m_1 =
+neg_m_1 : String
+neg_m_1 =
     "-m-1"
 
 
@@ -51,8 +51,8 @@ _m_1 =
     }
 
 -}
-_m_2 : String
-_m_2 =
+neg_m_2 : String
+neg_m_2 =
     "-m-2"
 
 
@@ -64,8 +64,8 @@ _m_2 =
     }
 
 -}
-_m_3 : String
-_m_3 =
+neg_m_3 : String
+neg_m_3 =
     "-m-3"
 
 
@@ -77,8 +77,8 @@ _m_3 =
     }
 
 -}
-_m_4 : String
-_m_4 =
+neg_m_4 : String
+neg_m_4 =
     "-m-4"
 
 
@@ -90,8 +90,8 @@ _m_4 =
     }
 
 -}
-_m_6 : String
-_m_6 =
+neg_m_6 : String
+neg_m_6 =
     "-m-6"
 
 
@@ -103,8 +103,8 @@ _m_6 =
     }
 
 -}
-_m_8 : String
-_m_8 =
+neg_m_8 : String
+neg_m_8 =
     "-m-8"
 
 
@@ -116,8 +116,8 @@ _m_8 =
     }
 
 -}
-_m_px : String
-_m_px =
+neg_m_px : String
+neg_m_px =
     "-m-px"
 
 
@@ -129,8 +129,8 @@ _m_px =
     }
 
 -}
-_mb_0 : String
-_mb_0 =
+neg_mb_0 : String
+neg_mb_0 =
     "-mb-0"
 
 
@@ -142,8 +142,8 @@ _mb_0 =
     }
 
 -}
-_mb_1 : String
-_mb_1 =
+neg_mb_1 : String
+neg_mb_1 =
     "-mb-1"
 
 
@@ -155,8 +155,8 @@ _mb_1 =
     }
 
 -}
-_mb_2 : String
-_mb_2 =
+neg_mb_2 : String
+neg_mb_2 =
     "-mb-2"
 
 
@@ -168,8 +168,8 @@ _mb_2 =
     }
 
 -}
-_mb_3 : String
-_mb_3 =
+neg_mb_3 : String
+neg_mb_3 =
     "-mb-3"
 
 
@@ -181,8 +181,8 @@ _mb_3 =
     }
 
 -}
-_mb_4 : String
-_mb_4 =
+neg_mb_4 : String
+neg_mb_4 =
     "-mb-4"
 
 
@@ -194,8 +194,8 @@ _mb_4 =
     }
 
 -}
-_mb_6 : String
-_mb_6 =
+neg_mb_6 : String
+neg_mb_6 =
     "-mb-6"
 
 
@@ -207,8 +207,8 @@ _mb_6 =
     }
 
 -}
-_mb_8 : String
-_mb_8 =
+neg_mb_8 : String
+neg_mb_8 =
     "-mb-8"
 
 
@@ -220,8 +220,8 @@ _mb_8 =
     }
 
 -}
-_mb_px : String
-_mb_px =
+neg_mb_px : String
+neg_mb_px =
     "-mb-px"
 
 
@@ -233,8 +233,8 @@ _mb_px =
     }
 
 -}
-_ml_0 : String
-_ml_0 =
+neg_ml_0 : String
+neg_ml_0 =
     "-ml-0"
 
 
@@ -246,8 +246,8 @@ _ml_0 =
     }
 
 -}
-_ml_1 : String
-_ml_1 =
+neg_ml_1 : String
+neg_ml_1 =
     "-ml-1"
 
 
@@ -259,8 +259,8 @@ _ml_1 =
     }
 
 -}
-_ml_2 : String
-_ml_2 =
+neg_ml_2 : String
+neg_ml_2 =
     "-ml-2"
 
 
@@ -272,8 +272,8 @@ _ml_2 =
     }
 
 -}
-_ml_3 : String
-_ml_3 =
+neg_ml_3 : String
+neg_ml_3 =
     "-ml-3"
 
 
@@ -285,8 +285,8 @@ _ml_3 =
     }
 
 -}
-_ml_4 : String
-_ml_4 =
+neg_ml_4 : String
+neg_ml_4 =
     "-ml-4"
 
 
@@ -298,8 +298,8 @@ _ml_4 =
     }
 
 -}
-_ml_6 : String
-_ml_6 =
+neg_ml_6 : String
+neg_ml_6 =
     "-ml-6"
 
 
@@ -311,8 +311,8 @@ _ml_6 =
     }
 
 -}
-_ml_8 : String
-_ml_8 =
+neg_ml_8 : String
+neg_ml_8 =
     "-ml-8"
 
 
@@ -324,8 +324,8 @@ _ml_8 =
     }
 
 -}
-_ml_px : String
-_ml_px =
+neg_ml_px : String
+neg_ml_px =
     "-ml-px"
 
 
@@ -337,8 +337,8 @@ _ml_px =
     }
 
 -}
-_mr_0 : String
-_mr_0 =
+neg_mr_0 : String
+neg_mr_0 =
     "-mr-0"
 
 
@@ -350,8 +350,8 @@ _mr_0 =
     }
 
 -}
-_mr_1 : String
-_mr_1 =
+neg_mr_1 : String
+neg_mr_1 =
     "-mr-1"
 
 
@@ -363,8 +363,8 @@ _mr_1 =
     }
 
 -}
-_mr_2 : String
-_mr_2 =
+neg_mr_2 : String
+neg_mr_2 =
     "-mr-2"
 
 
@@ -376,8 +376,8 @@ _mr_2 =
     }
 
 -}
-_mr_3 : String
-_mr_3 =
+neg_mr_3 : String
+neg_mr_3 =
     "-mr-3"
 
 
@@ -389,8 +389,8 @@ _mr_3 =
     }
 
 -}
-_mr_4 : String
-_mr_4 =
+neg_mr_4 : String
+neg_mr_4 =
     "-mr-4"
 
 
@@ -402,8 +402,8 @@ _mr_4 =
     }
 
 -}
-_mr_6 : String
-_mr_6 =
+neg_mr_6 : String
+neg_mr_6 =
     "-mr-6"
 
 
@@ -415,8 +415,8 @@ _mr_6 =
     }
 
 -}
-_mr_8 : String
-_mr_8 =
+neg_mr_8 : String
+neg_mr_8 =
     "-mr-8"
 
 
@@ -428,8 +428,8 @@ _mr_8 =
     }
 
 -}
-_mr_px : String
-_mr_px =
+neg_mr_px : String
+neg_mr_px =
     "-mr-px"
 
 
@@ -441,8 +441,8 @@ _mr_px =
     }
 
 -}
-_mt_0 : String
-_mt_0 =
+neg_mt_0 : String
+neg_mt_0 =
     "-mt-0"
 
 
@@ -454,8 +454,8 @@ _mt_0 =
     }
 
 -}
-_mt_1 : String
-_mt_1 =
+neg_mt_1 : String
+neg_mt_1 =
     "-mt-1"
 
 
@@ -467,8 +467,8 @@ _mt_1 =
     }
 
 -}
-_mt_2 : String
-_mt_2 =
+neg_mt_2 : String
+neg_mt_2 =
     "-mt-2"
 
 
@@ -480,8 +480,8 @@ _mt_2 =
     }
 
 -}
-_mt_3 : String
-_mt_3 =
+neg_mt_3 : String
+neg_mt_3 =
     "-mt-3"
 
 
@@ -493,8 +493,8 @@ _mt_3 =
     }
 
 -}
-_mt_4 : String
-_mt_4 =
+neg_mt_4 : String
+neg_mt_4 =
     "-mt-4"
 
 
@@ -506,8 +506,8 @@ _mt_4 =
     }
 
 -}
-_mt_6 : String
-_mt_6 =
+neg_mt_6 : String
+neg_mt_6 =
     "-mt-6"
 
 
@@ -519,8 +519,8 @@ _mt_6 =
     }
 
 -}
-_mt_8 : String
-_mt_8 =
+neg_mt_8 : String
+neg_mt_8 =
     "-mt-8"
 
 
@@ -532,8 +532,8 @@ _mt_8 =
     }
 
 -}
-_mt_px : String
-_mt_px =
+neg_mt_px : String
+neg_mt_px =
     "-mt-px"
 
 
@@ -546,8 +546,8 @@ _mt_px =
     }
 
 -}
-_mx_0 : String
-_mx_0 =
+neg_mx_0 : String
+neg_mx_0 =
     "-mx-0"
 
 
@@ -560,8 +560,8 @@ _mx_0 =
     }
 
 -}
-_mx_1 : String
-_mx_1 =
+neg_mx_1 : String
+neg_mx_1 =
     "-mx-1"
 
 
@@ -574,8 +574,8 @@ _mx_1 =
     }
 
 -}
-_mx_2 : String
-_mx_2 =
+neg_mx_2 : String
+neg_mx_2 =
     "-mx-2"
 
 
@@ -588,8 +588,8 @@ _mx_2 =
     }
 
 -}
-_mx_3 : String
-_mx_3 =
+neg_mx_3 : String
+neg_mx_3 =
     "-mx-3"
 
 
@@ -602,8 +602,8 @@ _mx_3 =
     }
 
 -}
-_mx_4 : String
-_mx_4 =
+neg_mx_4 : String
+neg_mx_4 =
     "-mx-4"
 
 
@@ -616,8 +616,8 @@ _mx_4 =
     }
 
 -}
-_mx_6 : String
-_mx_6 =
+neg_mx_6 : String
+neg_mx_6 =
     "-mx-6"
 
 
@@ -630,8 +630,8 @@ _mx_6 =
     }
 
 -}
-_mx_8 : String
-_mx_8 =
+neg_mx_8 : String
+neg_mx_8 =
     "-mx-8"
 
 
@@ -644,8 +644,8 @@ _mx_8 =
     }
 
 -}
-_mx_px : String
-_mx_px =
+neg_mx_px : String
+neg_mx_px =
     "-mx-px"
 
 
@@ -658,8 +658,8 @@ _mx_px =
     }
 
 -}
-_my_0 : String
-_my_0 =
+neg_my_0 : String
+neg_my_0 =
     "-my-0"
 
 
@@ -672,8 +672,8 @@ _my_0 =
     }
 
 -}
-_my_1 : String
-_my_1 =
+neg_my_1 : String
+neg_my_1 =
     "-my-1"
 
 
@@ -686,8 +686,8 @@ _my_1 =
     }
 
 -}
-_my_2 : String
-_my_2 =
+neg_my_2 : String
+neg_my_2 =
     "-my-2"
 
 
@@ -700,8 +700,8 @@ _my_2 =
     }
 
 -}
-_my_3 : String
-_my_3 =
+neg_my_3 : String
+neg_my_3 =
     "-my-3"
 
 
@@ -714,8 +714,8 @@ _my_3 =
     }
 
 -}
-_my_4 : String
-_my_4 =
+neg_my_4 : String
+neg_my_4 =
     "-my-4"
 
 
@@ -728,8 +728,8 @@ _my_4 =
     }
 
 -}
-_my_6 : String
-_my_6 =
+neg_my_6 : String
+neg_my_6 =
     "-my-6"
 
 
@@ -742,8 +742,8 @@ _my_6 =
     }
 
 -}
-_my_8 : String
-_my_8 =
+neg_my_8 : String
+neg_my_8 =
     "-my-8"
 
 
@@ -756,8 +756,8 @@ _my_8 =
     }
 
 -}
-_my_px : String
-_my_px =
+neg_my_px : String
+neg_my_px =
     "-my-px"
 
 
