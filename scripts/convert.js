@@ -52,9 +52,13 @@ root.walkRules(rule => {
   );
 
   names.forEach(name => {
+    let elmName = name.replace(/-/g, "_")
+    if (name.startsWith("-m")) {
+      elmName = "neg" + elmName 
+    }
     const obj = {
       name,
-      elmName: name.replace(/-/g, "_"),
+      elmName, 
       def: ruleFormatter(rule)
     };
 
