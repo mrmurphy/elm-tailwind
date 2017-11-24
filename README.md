@@ -45,7 +45,7 @@ And a vertical padding could be expressed like so:
  ISC license:
  
 ```
-Copyright 2007 Murphy Randle
+Copyright 2017 Murphy Randle
 
 Permission to use, copy, modify, and/or distribute this software for any purpose with or without fee is hereby granted, provided that the above copyright notice and this permission notice appear in all copies.
 
