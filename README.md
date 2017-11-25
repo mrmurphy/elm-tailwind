@@ -1,6 +1,6 @@
 # elm-tailwind
 
-![Tailwind Twitter card image](https://tailwindcss.com/img/twitter-card.png)
+![Tailwind logo image](https://pbs.twimg.com/profile_images/895274026783866881/E1G1nNb0.jpg)
 
 A small library that makes using [tailwind.css](https://tailwindcss.com/docs/what-is-tailwind/) a little easier and a little safer to use within Elm.
 
