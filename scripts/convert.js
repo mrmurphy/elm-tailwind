@@ -144,12 +144,6 @@ module Tailwind.Classes exposing (..)
 
 These are all the classes ported from tailwind. __NOTE__: this is a auto-generated file by \`scripts/convert.js\`
 
-# Useless Docs below:
-
-Yes these docs are useless, please look at the [tailwind docs](https://tailwindcss.com/docs/what-is-tailwind/) for the definitions of these classes. Keep in mind this was made with a script (not typed by hand).
-
-They do however show the minifed css definition as their comment.
-
 # Types
 
 @docs TailwindClass
@@ -157,6 +151,12 @@ They do however show the minifed css definition as their comment.
 # Responsive helpers
 
 @docs sm, md, lg, xl
+
+# Useless Docs below:
+
+Yes these docs are useless, please look at the [tailwind docs](https://tailwindcss.com/docs/what-is-tailwind/) for the definitions of these classes. Keep in mind this was made with a script (not typed by hand).
+
+They do however show the minifed css definition as their comment.
 
 # Classes and their Definitions
 

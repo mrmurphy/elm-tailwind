@@ -1,10 +1,22 @@
 # elm-tailwind
 
-A small library that makes using [tailwind.css](https://tailwindcss.com/) a little easier and a little safer to use within Elm.
+![Tailwind Twitter card image](https://tailwindcss.com/img/twitter-card.png)
 
-@docs stylesheet, classes
+A small library that makes using [tailwind.css](https://tailwindcss.com/docs/what-is-tailwind/) a little easier and a little safer to use within Elm.
 
-This library is mostly for autocomplete and avoiding spelling errors. A more ideal solution might be to make a type-safe api, maybe something like this:
+You'll find classes responding to Tailwind rules in Tailwind.Classes.
+
+In there you'll also find functions for appending responsive qualifiers to those classes. Here's an example of what a div using tailwind might look like:
+
+        div
+            [ tailwind
+                <| withClasses [ "__login_page" ] -- __login_page is not a tailwind class, it's just for marking the div's purpose.
+                <| [ m_1, lg m_6 ]
+            ]
+
+# Ideas for Improvement
+
+This library is mostly for autocomplete and avoiding spelling errors at the moment. A more ideal solution might be to make a type-safe api, maybe something like this:
 
 To give types to: <https://tailwindcss.com/docs/spacing/#app>
 
