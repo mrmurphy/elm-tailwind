@@ -12,7 +12,7 @@ In there you'll also find functions for appending responsive qualifiers to those
                 <| [ m_1, lg m_6 ]
             ]
 
-@docs stylesheet, tailwind, withClasses
+@docs stylesheet, tailwind, withClasses, asClasses
 
 -}
 
@@ -52,3 +52,10 @@ Could be used like this:
 withClasses : List String -> List TailwindClass -> List TailwindClass
 withClasses cs twCs =
     twCs ++ List.map TailwindClass cs
+
+
+{-| Turns tailwind classes into normal strings, for when you just want a list of strings instead of an Html.Attribute.
+-}
+asClasses : List TailwindClass -> List String
+asClasses twCs =
+    List.map (\(TailwindClass c) -> c) twCs
