@@ -7,33 +7,34 @@
 
 // to use this run `node ./convert.js`
 
-const postcss = require("postcss");
-const _ = require("lodash");
-const exportPath = "./src/Tailwind/Classes.elm";
+const postcss = require('postcss');
+const _ = require('lodash');
 
-fs = require("fs");
+const exportPath = './src/Tailwind/Classes.elm';
 
-const css = fs.readFileSync("./scripts/tailwind.css", "utf8"); // minificated version introduces problems with compound selectors
+fs = require('fs');
+
+const css = fs.readFileSync('./scripts/tailwind.css', 'utf8'); // minificated version introduces problems with compound selectors
 
 const root = postcss.parse(css);
 
 const classObjs = {};
 
-const defaultIndentation = " ".repeat(4);
+const defaultIndentation = ' '.repeat(4);
 
-const ruleFormatter = rule => {
-  let def = rule.toString().replace("{-", "{ -");
+const ruleFormatter = (rule) => {
+  let def = rule.toString().replace('{-', '{ -');
   def = setCorrectIndentation(def);
   return def;
 };
 
-const setCorrectIndentation = text => {
+const setCorrectIndentation = (text) => {
   // normalize indentation
   if (/ {4}/.test(text)) {
-    text = text.replace(/\n {2}/g, "\n");
+    text = text.replace(/\n {2}/g, '\n');
   }
   // set indentation
-  text = text.replace(/\n/g, "\n" + defaultIndentation);
+  text = text.replace(/\n/g, `\n${defaultIndentation}`);
   return text;
 };
 
@@ -41,33 +42,33 @@ const setCorrectIndentation = text => {
  * This will walk through each of the css rules in tailwind
  * and pull out the relevent information.
  */
-root.walkRules(rule => {
+root.walkRules((rule) => {
   //
   // Ignore anything that's not a class
   //
-  if (!rule.selector.startsWith(".")) return;
+  if (!rule.selector.startsWith('.')) return;
 
   //
   // Ignore responsive variations in favor of using utility classes for that.
   //
-  if (rule.selector.startsWith(".sm\\:")) return;
-  if (rule.selector.startsWith(".md\\:")) return;
-  if (rule.selector.startsWith(".lg\\:")) return;
-  if (rule.selector.startsWith(".xl\\:")) return;
+  if (rule.selector.startsWith('.sm\\:')) return;
+  if (rule.selector.startsWith('.md\\:')) return;
+  if (rule.selector.startsWith('.lg\\:')) return;
+  if (rule.selector.startsWith('.xl\\:')) return;
 
   let name = rule.selector;
 
   //
   // If we're dealing with a rule that's selecting an :after or :before, ignore the rule
   //
-  if (name.indexOf(":after") != -1 || name.indexOf(":before") != -1) {
+  if (name.indexOf(':after') != -1 || name.indexOf(':before') != -1) {
     return;
   }
 
   //
   // Remove the leading dot
   //
-  name = name.replace(/^\S*\./, "");
+  name = name.replace(/^\S*\./, '');
 
   //
   // Throw away anything after a comma or a space
@@ -78,51 +79,59 @@ root.walkRules(rule => {
   //
   // Replace the \: with a __
   //
-  elmName = elmName.split("\\:").join("__");
+  elmName = elmName.split('\\:').join('__');
 
   //
   // Replace the negative margin with a 'neg'
   //
-  elmName = elmName.replace(/-m([lrtbxy])/g, "neg_m$1");
+  elmName = elmName.replace(/-m([lrtbxy])/g, 'neg_m$1');
 
   //
   // Change a leading dash to a 'neg'
   //
-  elmName = elmName.replace(/^-/, "neg");
+  elmName = elmName.replace(/^-/, 'neg');
 
   //
   // Replace dashes with underscores
   //
-  elmName = elmName.replace(/-/g, "_");
+  elmName = elmName.replace(/-/g, '_');
 
   //
   // Change the \/ in fractions to `over`
   //
-  elmName = elmName.replace(/\\\//g, "over");
+  elmName = elmName.replace(/\\\//g, 'over');
+
+  //
+  // Remove :focus
+  //
+  elmName = elmName.replace(':focus', '');
+
+  //
+  // Remove :hover
+  //
+  elmName = elmName.replace(':hover', '');
 
   //
   // Before using "name", but after basing elmName on it, escape the backslack in the Elm string
   //
-  name = name.replace(/\\/g, "\\\\");
+  name = name.replace(/\\/g, '\\\\');
 
   const obj = {
     name,
     elmName,
-    def: ruleFormatter(rule)
+    def: ruleFormatter(rule),
   };
 
   console.log(obj);
 
-  if (name in classObjs)
-    classObjs[name].def += "\n" + defaultIndentation + obj.def; // class has been already registered, only append new def
+  if (name in classObjs) { classObjs[name].def += `\n${defaultIndentation}${obj.def}`; } // class has been already registered, only append new def
   else classObjs[name] = obj;
 });
 
-const classes = _(classObjs).sortBy("name");
+const classes = _(classObjs).sortBy('name');
 
 // creates an elm variable for each class
-const elmify = cl => {
-  return `
+const elmify = cl => `
 {-| This class maps to this CSS definition:
 
     ${cl.def}
@@ -134,7 +143,6 @@ ${cl.elmName} =
 
 
 `;
-};
 
 // // string of the elm file
 const elmString = `
@@ -160,7 +168,7 @@ They do however show the minifed css definition as their comment.
 
 # Classes and their Definitions
 
-@docs ${classes.map(({ elmName }) => elmName).join(", ")}
+@docs ${classes.map(({ elmName }) => elmName).join(', ')}
 
 -}
 
@@ -173,7 +181,7 @@ type TailwindClass = TailwindClass String
 sm : TailwindClass -> TailwindClass
 sm (TailwindClass c) =
   TailwindClass ("sm:" ++ c)
-  
+
 
 {-| Add a size prefix to the tailwind rule, making it only apply to that screen size and above.
   Notice, doesn't make sure the class being passed in is going to work with a responsive prefix.. Not all tailwind rules are responsive-capable.
@@ -181,8 +189,8 @@ sm (TailwindClass c) =
 md : TailwindClass -> TailwindClass
 md (TailwindClass c) =
   TailwindClass ("md:" ++ c)
-  
-  
+
+
 {-| Add a size prefix to the tailwind rule, making it only apply to that screen size and above.
   Notice, doesn't make sure the class being passed in is going to work with a responsive prefix.. Not all tailwind rules are responsive-capable.
 -}
@@ -190,7 +198,7 @@ lg : TailwindClass -> TailwindClass
 lg (TailwindClass c) =
   TailwindClass ("lg:" ++ c)
 
-    
+
 {-| Add a size prefix to the tailwind rule, making it only apply to that screen size and above.
   Notice, doesn't make sure the class being passed in is going to work with a responsive prefix.. Not all tailwind rules are responsive-capable.
 -}
@@ -199,13 +207,13 @@ xl (TailwindClass c) =
   TailwindClass ("xl:" ++ c)
 
 
-${classes.map(elmify).join("")}`;
+${classes.map(elmify).join('')}`;
 
 // writing the string to the file
-fs.writeFile(exportPath, elmString, function(err) {
+fs.writeFile(exportPath, elmString, (err) => {
   if (err) {
     return console.log(err);
   }
 
-  console.log(exportPath, "was saved!");
+  console.log(exportPath, 'was saved!');
 });
