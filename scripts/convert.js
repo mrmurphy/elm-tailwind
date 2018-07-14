@@ -114,6 +114,7 @@ root.walkRules((rule) => {
   //
   // Before using "name", but after basing elmName on it, escape the backslack in the Elm string
   //
+  name = name.replace(/\\\//g, '/');
   name = name.replace(/\\/g, '\\\\');
 
   const obj = {

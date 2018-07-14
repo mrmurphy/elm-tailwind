@@ -21,7 +21,7 @@ They do however show the minifed css definition as their comment.
 
 # Classes and their Definitions
 
-@docs negm_0, negm_1, negm_10, negm_12, negm_16, negm_2, negm_20, negm_24, negm_3, negm_32, negm_4, negm_5, negm_6, negm_8, negm_px, neg_mb_0, neg_mb_1, neg_mb_10, neg_mb_12, neg_mb_16, neg_mb_2, neg_mb_20, neg_mb_24, neg_mb_3, neg_mb_32, neg_mb_4, neg_mb_5, neg_mb_6, neg_mb_8, neg_mb_px, neg_ml_0, neg_ml_1, neg_ml_10, neg_ml_12, neg_ml_16, neg_ml_2, neg_ml_20, neg_ml_24, neg_ml_3, neg_ml_32, neg_ml_4, neg_ml_5, neg_ml_6, neg_ml_8, neg_ml_px, neg_mr_0, neg_mr_1, neg_mr_10, neg_mr_12, neg_mr_16, neg_mr_2, neg_mr_20, neg_mr_24, neg_mr_3, neg_mr_32, neg_mr_4, neg_mr_5, neg_mr_6, neg_mr_8, neg_mr_px, neg_mt_0, neg_mt_1, neg_mt_10, neg_mt_12, neg_mt_16, neg_mt_2, neg_mt_20, neg_mt_24, neg_mt_3, neg_mt_32, neg_mt_4, neg_mt_5, neg_mt_6, neg_mt_8, neg_mt_px, neg_mx_0, neg_mx_1, neg_mx_10, neg_mx_12, neg_mx_16, neg_mx_2, neg_mx_20, neg_mx_24, neg_mx_3, neg_mx_32, neg_mx_4, neg_mx_5, neg_mx_6, neg_mx_8, neg_mx_px, neg_my_0, neg_my_1, neg_my_10, neg_my_12, neg_my_16, neg_my_2, neg_my_20, neg_my_24, neg_my_3, neg_my_32, neg_my_4, neg_my_5, neg_my_6, neg_my_8, neg_my_px, absolute, align_baseline, align_bottom, align_middle, align_text_bottom, align_text_top, align_top, antialiased, appearance_none, bg_auto, bg_black, bg_blue, bg_blue_dark, bg_blue_darker, bg_blue_darkest, bg_blue_light, bg_blue_lighter, bg_blue_lightest, bg_bottom, bg_center, bg_contain, bg_cover, bg_fixed, bg_green, bg_green_dark, bg_green_darker, bg_green_darkest, bg_green_light, bg_green_lighter, bg_green_lightest, bg_grey, bg_grey_dark, bg_grey_darker, bg_grey_darkest, bg_grey_light, bg_grey_lighter, bg_grey_lightest, bg_indigo, bg_indigo_dark, bg_indigo_darker, bg_indigo_darkest, bg_indigo_light, bg_indigo_lighter, bg_indigo_lightest, bg_left, bg_left_bottom, bg_left_top, bg_local, bg_no_repeat, bg_orange, bg_orange_dark, bg_orange_darker, bg_orange_darkest, bg_orange_light, bg_orange_lighter, bg_orange_lightest, bg_pink, bg_pink_dark, bg_pink_darker, bg_pink_darkest, bg_pink_light, bg_pink_lighter, bg_pink_lightest, bg_purple, bg_purple_dark, bg_purple_darker, bg_purple_darkest, bg_purple_light, bg_purple_lighter, bg_purple_lightest, bg_red, bg_red_dark, bg_red_darker, bg_red_darkest, bg_red_light, bg_red_lighter, bg_red_lightest, bg_repeat, bg_repeat_x, bg_repeat_y, bg_right, bg_right_bottom, bg_right_top, bg_scroll, bg_teal, bg_teal_dark, bg_teal_darker, bg_teal_darkest, bg_teal_light, bg_teal_lighter, bg_teal_lightest, bg_top, bg_transparent, bg_white, bg_yellow, bg_yellow_dark, bg_yellow_darker, bg_yellow_darkest, bg_yellow_light, bg_yellow_lighter, bg_yellow_lightest, block, border, border_0, border_2, border_4, border_8, border_b, border_b_0, border_b_2, border_b_4, border_b_8, border_black, border_blue, border_blue_dark, border_blue_darker, border_blue_darkest, border_blue_light, border_blue_lighter, border_blue_lightest, border_collapse, border_dashed, border_dotted, border_green, border_green_dark, border_green_darker, border_green_darkest, border_green_light, border_green_lighter, border_green_lightest, border_grey, border_grey_dark, border_grey_darker, border_grey_darkest, border_grey_light, border_grey_lighter, border_grey_lightest, border_indigo, border_indigo_dark, border_indigo_darker, border_indigo_darkest, border_indigo_light, border_indigo_lighter, border_indigo_lightest, border_l, border_l_0, border_l_2, border_l_4, border_l_8, border_none, border_orange, border_orange_dark, border_orange_darker, border_orange_darkest, border_orange_light, border_orange_lighter, border_orange_lightest, border_pink, border_pink_dark, border_pink_darker, border_pink_darkest, border_pink_light, border_pink_lighter, border_pink_lightest, border_purple, border_purple_dark, border_purple_darker, border_purple_darkest, border_purple_light, border_purple_lighter, border_purple_lightest, border_r, border_r_0, border_r_2, border_r_4, border_r_8, border_red, border_red_dark, border_red_darker, border_red_darkest, border_red_light, border_red_lighter, border_red_lightest, border_separate, border_solid, border_t, border_t_0, border_t_2, border_t_4, border_t_8, border_teal, border_teal_dark, border_teal_darker, border_teal_darkest, border_teal_light, border_teal_lighter, border_teal_lightest, border_transparent, border_white, border_yellow, border_yellow_dark, border_yellow_darker, border_yellow_darkest, border_yellow_light, border_yellow_lighter, border_yellow_lightest, break_normal, break_words, capitalize, container, content_around, content_between, content_center, content_end, content_start, cursor_auto, cursor_default, cursor_move, cursor_not_allowed, cursor_pointer, cursor_wait, fill_current, fixed, flex, flex_1, flex_auto, flex_col, flex_col_reverse, flex_grow, flex_initial, flex_no_grow, flex_no_shrink, flex_no_wrap, flex_none, flex_row, flex_row_reverse, flex_shrink, flex_wrap, flex_wrap_reverse, float_left, float_none, float_right, focus__antialiased, focus__bg_black, focus__bg_blue_dark, focus__bg_blue_darker, focus__bg_blue_darkest, focus__bg_blue_light, focus__bg_blue_lighter, focus__bg_blue_lightest, focus__bg_blue, focus__bg_green_dark, focus__bg_green_darker, focus__bg_green_darkest, focus__bg_green_light, focus__bg_green_lighter, focus__bg_green_lightest, focus__bg_green, focus__bg_grey_dark, focus__bg_grey_darker, focus__bg_grey_darkest, focus__bg_grey_light, focus__bg_grey_lighter, focus__bg_grey_lightest, focus__bg_grey, focus__bg_indigo_dark, focus__bg_indigo_darker, focus__bg_indigo_darkest, focus__bg_indigo_light, focus__bg_indigo_lighter, focus__bg_indigo_lightest, focus__bg_indigo, focus__bg_orange_dark, focus__bg_orange_darker, focus__bg_orange_darkest, focus__bg_orange_light, focus__bg_orange_lighter, focus__bg_orange_lightest, focus__bg_orange, focus__bg_pink_dark, focus__bg_pink_darker, focus__bg_pink_darkest, focus__bg_pink_light, focus__bg_pink_lighter, focus__bg_pink_lightest, focus__bg_pink, focus__bg_purple_dark, focus__bg_purple_darker, focus__bg_purple_darkest, focus__bg_purple_light, focus__bg_purple_lighter, focus__bg_purple_lightest, focus__bg_purple, focus__bg_red_dark, focus__bg_red_darker, focus__bg_red_darkest, focus__bg_red_light, focus__bg_red_lighter, focus__bg_red_lightest, focus__bg_red, focus__bg_teal_dark, focus__bg_teal_darker, focus__bg_teal_darkest, focus__bg_teal_light, focus__bg_teal_lighter, focus__bg_teal_lightest, focus__bg_teal, focus__bg_transparent, focus__bg_white, focus__bg_yellow_dark, focus__bg_yellow_darker, focus__bg_yellow_darkest, focus__bg_yellow_light, focus__bg_yellow_lighter, focus__bg_yellow_lightest, focus__bg_yellow, focus__border_black, focus__border_blue_dark, focus__border_blue_darker, focus__border_blue_darkest, focus__border_blue_light, focus__border_blue_lighter, focus__border_blue_lightest, focus__border_blue, focus__border_green_dark, focus__border_green_darker, focus__border_green_darkest, focus__border_green_light, focus__border_green_lighter, focus__border_green_lightest, focus__border_green, focus__border_grey_dark, focus__border_grey_darker, focus__border_grey_darkest, focus__border_grey_light, focus__border_grey_lighter, focus__border_grey_lightest, focus__border_grey, focus__border_indigo_dark, focus__border_indigo_darker, focus__border_indigo_darkest, focus__border_indigo_light, focus__border_indigo_lighter, focus__border_indigo_lightest, focus__border_indigo, focus__border_orange_dark, focus__border_orange_darker, focus__border_orange_darkest, focus__border_orange_light, focus__border_orange_lighter, focus__border_orange_lightest, focus__border_orange, focus__border_pink_dark, focus__border_pink_darker, focus__border_pink_darkest, focus__border_pink_light, focus__border_pink_lighter, focus__border_pink_lightest, focus__border_pink, focus__border_purple_dark, focus__border_purple_darker, focus__border_purple_darkest, focus__border_purple_light, focus__border_purple_lighter, focus__border_purple_lightest, focus__border_purple, focus__border_red_dark, focus__border_red_darker, focus__border_red_darkest, focus__border_red_light, focus__border_red_lighter, focus__border_red_lightest, focus__border_red, focus__border_teal_dark, focus__border_teal_darker, focus__border_teal_darkest, focus__border_teal_light, focus__border_teal_lighter, focus__border_teal_lightest, focus__border_teal, focus__border_transparent, focus__border_white, focus__border_yellow_dark, focus__border_yellow_darker, focus__border_yellow_darkest, focus__border_yellow_light, focus__border_yellow_lighter, focus__border_yellow_lightest, focus__border_yellow, focus__capitalize, focus__font_black, focus__font_bold, focus__font_extrabold, focus__font_hairline, focus__font_light, focus__font_medium, focus__font_normal, focus__font_semibold, focus__font_thin, focus__italic, focus__line_through, focus__lowercase, focus__no_underline, focus__normal_case, focus__outline_none, focus__roman, focus__shadow_inner, focus__shadow_lg, focus__shadow_md, focus__shadow_none, focus__shadow_outline, focus__shadow, focus__subpixel_antialiased, focus__text_black, focus__text_blue_dark, focus__text_blue_darker, focus__text_blue_darkest, focus__text_blue_light, focus__text_blue_lighter, focus__text_blue_lightest, focus__text_blue, focus__text_green_dark, focus__text_green_darker, focus__text_green_darkest, focus__text_green_light, focus__text_green_lighter, focus__text_green_lightest, focus__text_green, focus__text_grey_dark, focus__text_grey_darker, focus__text_grey_darkest, focus__text_grey_light, focus__text_grey_lighter, focus__text_grey_lightest, focus__text_grey, focus__text_indigo_dark, focus__text_indigo_darker, focus__text_indigo_darkest, focus__text_indigo_light, focus__text_indigo_lighter, focus__text_indigo_lightest, focus__text_indigo, focus__text_orange_dark, focus__text_orange_darker, focus__text_orange_darkest, focus__text_orange_light, focus__text_orange_lighter, focus__text_orange_lightest, focus__text_orange, focus__text_pink_dark, focus__text_pink_darker, focus__text_pink_darkest, focus__text_pink_light, focus__text_pink_lighter, focus__text_pink_lightest, focus__text_pink, focus__text_purple_dark, focus__text_purple_darker, focus__text_purple_darkest, focus__text_purple_light, focus__text_purple_lighter, focus__text_purple_lightest, focus__text_purple, focus__text_red_dark, focus__text_red_darker, focus__text_red_darkest, focus__text_red_light, focus__text_red_lighter, focus__text_red_lightest, focus__text_red, focus__text_teal_dark, focus__text_teal_darker, focus__text_teal_darkest, focus__text_teal_light, focus__text_teal_lighter, focus__text_teal_lightest, focus__text_teal, focus__text_transparent, focus__text_white, focus__text_yellow_dark, focus__text_yellow_darker, focus__text_yellow_darkest, focus__text_yellow_light, focus__text_yellow_lighter, focus__text_yellow_lightest, focus__text_yellow, focus__underline, focus__uppercase, font_black, font_bold, font_extrabold, font_hairline, font_light, font_medium, font_mono, font_normal, font_sans, font_semibold, font_serif, font_thin, h_1, h_10, h_12, h_16, h_2, h_24, h_3, h_32, h_4, h_48, h_5, h_6, h_64, h_8, h_auto, h_full, h_px, h_screen, hidden, hover__antialiased, hover__bg_black, hover__bg_blue_dark, hover__bg_blue_darker, hover__bg_blue_darkest, hover__bg_blue_light, hover__bg_blue_lighter, hover__bg_blue_lightest, hover__bg_blue, hover__bg_green_dark, hover__bg_green_darker, hover__bg_green_darkest, hover__bg_green_light, hover__bg_green_lighter, hover__bg_green_lightest, hover__bg_green, hover__bg_grey_dark, hover__bg_grey_darker, hover__bg_grey_darkest, hover__bg_grey_light, hover__bg_grey_lighter, hover__bg_grey_lightest, hover__bg_grey, hover__bg_indigo_dark, hover__bg_indigo_darker, hover__bg_indigo_darkest, hover__bg_indigo_light, hover__bg_indigo_lighter, hover__bg_indigo_lightest, hover__bg_indigo, hover__bg_orange_dark, hover__bg_orange_darker, hover__bg_orange_darkest, hover__bg_orange_light, hover__bg_orange_lighter, hover__bg_orange_lightest, hover__bg_orange, hover__bg_pink_dark, hover__bg_pink_darker, hover__bg_pink_darkest, hover__bg_pink_light, hover__bg_pink_lighter, hover__bg_pink_lightest, hover__bg_pink, hover__bg_purple_dark, hover__bg_purple_darker, hover__bg_purple_darkest, hover__bg_purple_light, hover__bg_purple_lighter, hover__bg_purple_lightest, hover__bg_purple, hover__bg_red_dark, hover__bg_red_darker, hover__bg_red_darkest, hover__bg_red_light, hover__bg_red_lighter, hover__bg_red_lightest, hover__bg_red, hover__bg_teal_dark, hover__bg_teal_darker, hover__bg_teal_darkest, hover__bg_teal_light, hover__bg_teal_lighter, hover__bg_teal_lightest, hover__bg_teal, hover__bg_transparent, hover__bg_white, hover__bg_yellow_dark, hover__bg_yellow_darker, hover__bg_yellow_darkest, hover__bg_yellow_light, hover__bg_yellow_lighter, hover__bg_yellow_lightest, hover__bg_yellow, hover__border_black, hover__border_blue_dark, hover__border_blue_darker, hover__border_blue_darkest, hover__border_blue_light, hover__border_blue_lighter, hover__border_blue_lightest, hover__border_blue, hover__border_green_dark, hover__border_green_darker, hover__border_green_darkest, hover__border_green_light, hover__border_green_lighter, hover__border_green_lightest, hover__border_green, hover__border_grey_dark, hover__border_grey_darker, hover__border_grey_darkest, hover__border_grey_light, hover__border_grey_lighter, hover__border_grey_lightest, hover__border_grey, hover__border_indigo_dark, hover__border_indigo_darker, hover__border_indigo_darkest, hover__border_indigo_light, hover__border_indigo_lighter, hover__border_indigo_lightest, hover__border_indigo, hover__border_orange_dark, hover__border_orange_darker, hover__border_orange_darkest, hover__border_orange_light, hover__border_orange_lighter, hover__border_orange_lightest, hover__border_orange, hover__border_pink_dark, hover__border_pink_darker, hover__border_pink_darkest, hover__border_pink_light, hover__border_pink_lighter, hover__border_pink_lightest, hover__border_pink, hover__border_purple_dark, hover__border_purple_darker, hover__border_purple_darkest, hover__border_purple_light, hover__border_purple_lighter, hover__border_purple_lightest, hover__border_purple, hover__border_red_dark, hover__border_red_darker, hover__border_red_darkest, hover__border_red_light, hover__border_red_lighter, hover__border_red_lightest, hover__border_red, hover__border_teal_dark, hover__border_teal_darker, hover__border_teal_darkest, hover__border_teal_light, hover__border_teal_lighter, hover__border_teal_lightest, hover__border_teal, hover__border_transparent, hover__border_white, hover__border_yellow_dark, hover__border_yellow_darker, hover__border_yellow_darkest, hover__border_yellow_light, hover__border_yellow_lighter, hover__border_yellow_lightest, hover__border_yellow, hover__capitalize, hover__font_black, hover__font_bold, hover__font_extrabold, hover__font_hairline, hover__font_light, hover__font_medium, hover__font_normal, hover__font_semibold, hover__font_thin, hover__italic, hover__line_through, hover__lowercase, hover__no_underline, hover__normal_case, hover__roman, hover__shadow_inner, hover__shadow_lg, hover__shadow_md, hover__shadow_none, hover__shadow_outline, hover__shadow, hover__subpixel_antialiased, hover__text_black, hover__text_blue_dark, hover__text_blue_darker, hover__text_blue_darkest, hover__text_blue_light, hover__text_blue_lighter, hover__text_blue_lightest, hover__text_blue, hover__text_green_dark, hover__text_green_darker, hover__text_green_darkest, hover__text_green_light, hover__text_green_lighter, hover__text_green_lightest, hover__text_green, hover__text_grey_dark, hover__text_grey_darker, hover__text_grey_darkest, hover__text_grey_light, hover__text_grey_lighter, hover__text_grey_lightest, hover__text_grey, hover__text_indigo_dark, hover__text_indigo_darker, hover__text_indigo_darkest, hover__text_indigo_light, hover__text_indigo_lighter, hover__text_indigo_lightest, hover__text_indigo, hover__text_orange_dark, hover__text_orange_darker, hover__text_orange_darkest, hover__text_orange_light, hover__text_orange_lighter, hover__text_orange_lightest, hover__text_orange, hover__text_pink_dark, hover__text_pink_darker, hover__text_pink_darkest, hover__text_pink_light, hover__text_pink_lighter, hover__text_pink_lightest, hover__text_pink, hover__text_purple_dark, hover__text_purple_darker, hover__text_purple_darkest, hover__text_purple_light, hover__text_purple_lighter, hover__text_purple_lightest, hover__text_purple, hover__text_red_dark, hover__text_red_darker, hover__text_red_darkest, hover__text_red_light, hover__text_red_lighter, hover__text_red_lightest, hover__text_red, hover__text_teal_dark, hover__text_teal_darker, hover__text_teal_darkest, hover__text_teal_light, hover__text_teal_lighter, hover__text_teal_lightest, hover__text_teal, hover__text_transparent, hover__text_white, hover__text_yellow_dark, hover__text_yellow_darker, hover__text_yellow_darkest, hover__text_yellow_light, hover__text_yellow_lighter, hover__text_yellow_lightest, hover__text_yellow, hover__underline, hover__uppercase, inline, inline_block, inline_flex, invisible, italic, items_baseline, items_center, items_end, items_start, items_stretch, justify_around, justify_between, justify_center, justify_end, justify_start, leading_loose, leading_none, leading_normal, leading_tight, line_through, list_reset, lowercase, m_0, m_1, m_10, m_12, m_16, m_2, m_20, m_24, m_3, m_32, m_4, m_5, m_6, m_8, m_auto, m_px, max_h_full, max_h_screen, max_w_2xl, max_w_3xl, max_w_4xl, max_w_5xl, max_w_full, max_w_lg, max_w_md, max_w_sm, max_w_xl, max_w_xs, mb_0, mb_1, mb_10, mb_12, mb_16, mb_2, mb_20, mb_24, mb_3, mb_32, mb_4, mb_5, mb_6, mb_8, mb_auto, mb_px, min_h_0, min_h_full, min_h_screen, min_w_0, min_w_full, ml_0, ml_1, ml_10, ml_12, ml_16, ml_2, ml_20, ml_24, ml_3, ml_32, ml_4, ml_5, ml_6, ml_8, ml_auto, ml_px, mr_0, mr_1, mr_10, mr_12, mr_16, mr_2, mr_20, mr_24, mr_3, mr_32, mr_4, mr_5, mr_6, mr_8, mr_auto, mr_px, mt_0, mt_1, mt_10, mt_12, mt_16, mt_2, mt_20, mt_24, mt_3, mt_32, mt_4, mt_5, mt_6, mt_8, mt_auto, mt_px, mx_0, mx_1, mx_10, mx_12, mx_16, mx_2, mx_20, mx_24, mx_3, mx_32, mx_4, mx_5, mx_6, mx_8, mx_auto, mx_px, my_0, my_1, my_10, my_12, my_16, my_2, my_20, my_24, my_3, my_32, my_4, my_5, my_6, my_8, my_auto, my_px, no_underline, normal_case, opacity_0, opacity_100, opacity_25, opacity_50, opacity_75, outline_none, overflow_auto, overflow_hidden, overflow_scroll, overflow_visible, overflow_x_auto, overflow_x_hidden, overflow_x_scroll, overflow_x_visible, overflow_y_auto, overflow_y_hidden, overflow_y_scroll, overflow_y_visible, p_0, p_1, p_10, p_12, p_16, p_2, p_20, p_24, p_3, p_32, p_4, p_5, p_6, p_8, p_px, pb_0, pb_1, pb_10, pb_12, pb_16, pb_2, pb_20, pb_24, pb_3, pb_32, pb_4, pb_5, pb_6, pb_8, pb_px, pin, pin_b, pin_l, pin_none, pin_r, pin_t, pin_x, pin_y, pl_0, pl_1, pl_10, pl_12, pl_16, pl_2, pl_20, pl_24, pl_3, pl_32, pl_4, pl_5, pl_6, pl_8, pl_px, pointer_events_auto, pointer_events_none, pr_0, pr_1, pr_10, pr_12, pr_16, pr_2, pr_20, pr_24, pr_3, pr_32, pr_4, pr_5, pr_6, pr_8, pr_px, pt_0, pt_1, pt_10, pt_12, pt_16, pt_2, pt_20, pt_24, pt_3, pt_32, pt_4, pt_5, pt_6, pt_8, pt_px, px_0, px_1, px_10, px_12, px_16, px_2, px_20, px_24, px_3, px_32, px_4, px_5, px_6, px_8, px_px, py_0, py_1, py_10, py_12, py_16, py_2, py_20, py_24, py_3, py_32, py_4, py_5, py_6, py_8, py_px, relative, resize, resize_none, resize_x, resize_y, roman, rounded, rounded_b, rounded_b_full, rounded_b_lg, rounded_b_none, rounded_b_sm, rounded_bl, rounded_bl_full, rounded_bl_lg, rounded_bl_none, rounded_bl_sm, rounded_br, rounded_br_full, rounded_br_lg, rounded_br_none, rounded_br_sm, rounded_full, rounded_l, rounded_l_full, rounded_l_lg, rounded_l_none, rounded_l_sm, rounded_lg, rounded_none, rounded_r, rounded_r_full, rounded_r_lg, rounded_r_none, rounded_r_sm, rounded_sm, rounded_t, rounded_t_full, rounded_t_lg, rounded_t_none, rounded_t_sm, rounded_tl, rounded_tl_full, rounded_tl_lg, rounded_tl_none, rounded_tl_sm, rounded_tr, rounded_tr_full, rounded_tr_lg, rounded_tr_none, rounded_tr_sm, scrolling_auto, scrolling_touch, select_none, select_text, self_auto, self_center, self_end, self_start, self_stretch, shadow, shadow_inner, shadow_lg, shadow_md, shadow_none, shadow_outline, static, sticky, stroke_current, subpixel_antialiased, table, table_cell, table_row, text_2xl, text_3xl, text_4xl, text_5xl, text_base, text_black, text_blue, text_blue_dark, text_blue_darker, text_blue_darkest, text_blue_light, text_blue_lighter, text_blue_lightest, text_center, text_green, text_green_dark, text_green_darker, text_green_darkest, text_green_light, text_green_lighter, text_green_lightest, text_grey, text_grey_dark, text_grey_darker, text_grey_darkest, text_grey_light, text_grey_lighter, text_grey_lightest, text_indigo, text_indigo_dark, text_indigo_darker, text_indigo_darkest, text_indigo_light, text_indigo_lighter, text_indigo_lightest, text_justify, text_left, text_lg, text_orange, text_orange_dark, text_orange_darker, text_orange_darkest, text_orange_light, text_orange_lighter, text_orange_lightest, text_pink, text_pink_dark, text_pink_darker, text_pink_darkest, text_pink_light, text_pink_lighter, text_pink_lightest, text_purple, text_purple_dark, text_purple_darker, text_purple_darkest, text_purple_light, text_purple_lighter, text_purple_lightest, text_red, text_red_dark, text_red_darker, text_red_darkest, text_red_light, text_red_lighter, text_red_lightest, text_right, text_sm, text_teal, text_teal_dark, text_teal_darker, text_teal_darkest, text_teal_light, text_teal_lighter, text_teal_lightest, text_transparent, text_white, text_xl, text_xs, text_yellow, text_yellow_dark, text_yellow_darker, text_yellow_darkest, text_yellow_light, text_yellow_lighter, text_yellow_lightest, tracking_normal, tracking_tight, tracking_wide, truncate, underline, uppercase, visible, w_1, w_10, w_12, w_16, w_1over2, w_1over3, w_1over4, w_1over5, w_1over6, w_2, w_24, w_2over3, w_2over5, w_3, w_32, w_3over4, w_3over5, w_4, w_48, w_4over5, w_5, w_5over6, w_6, w_64, w_8, w_auto, w_full, w_px, w_screen, whitespace_no_wrap, whitespace_normal, whitespace_pre, whitespace_pre_line, whitespace_pre_wrap, z_0, z_10, z_20, z_30, z_40, z_50, z_auto
+@docs negm_0, negm_1, negm_10, negm_12, negm_16, negm_2, negm_20, negm_24, negm_3, negm_32, negm_4, negm_5, negm_6, negm_8, negm_px, neg_mb_0, neg_mb_1, neg_mb_10, neg_mb_12, neg_mb_16, neg_mb_2, neg_mb_20, neg_mb_24, neg_mb_3, neg_mb_32, neg_mb_4, neg_mb_5, neg_mb_6, neg_mb_8, neg_mb_px, neg_ml_0, neg_ml_1, neg_ml_10, neg_ml_12, neg_ml_16, neg_ml_2, neg_ml_20, neg_ml_24, neg_ml_3, neg_ml_32, neg_ml_4, neg_ml_5, neg_ml_6, neg_ml_8, neg_ml_px, neg_mr_0, neg_mr_1, neg_mr_10, neg_mr_12, neg_mr_16, neg_mr_2, neg_mr_20, neg_mr_24, neg_mr_3, neg_mr_32, neg_mr_4, neg_mr_5, neg_mr_6, neg_mr_8, neg_mr_px, neg_mt_0, neg_mt_1, neg_mt_10, neg_mt_12, neg_mt_16, neg_mt_2, neg_mt_20, neg_mt_24, neg_mt_3, neg_mt_32, neg_mt_4, neg_mt_5, neg_mt_6, neg_mt_8, neg_mt_px, neg_mx_0, neg_mx_1, neg_mx_10, neg_mx_12, neg_mx_16, neg_mx_2, neg_mx_20, neg_mx_24, neg_mx_3, neg_mx_32, neg_mx_4, neg_mx_5, neg_mx_6, neg_mx_8, neg_mx_px, neg_my_0, neg_my_1, neg_my_10, neg_my_12, neg_my_16, neg_my_2, neg_my_20, neg_my_24, neg_my_3, neg_my_32, neg_my_4, neg_my_5, neg_my_6, neg_my_8, neg_my_px, absolute, align_baseline, align_bottom, align_middle, align_text_bottom, align_text_top, align_top, antialiased, appearance_none, bg_auto, bg_black, bg_blue, bg_blue_dark, bg_blue_darker, bg_blue_darkest, bg_blue_light, bg_blue_lighter, bg_blue_lightest, bg_bottom, bg_center, bg_contain, bg_cover, bg_fixed, bg_green, bg_green_dark, bg_green_darker, bg_green_darkest, bg_green_light, bg_green_lighter, bg_green_lightest, bg_grey, bg_grey_dark, bg_grey_darker, bg_grey_darkest, bg_grey_light, bg_grey_lighter, bg_grey_lightest, bg_indigo, bg_indigo_dark, bg_indigo_darker, bg_indigo_darkest, bg_indigo_light, bg_indigo_lighter, bg_indigo_lightest, bg_left, bg_left_bottom, bg_left_top, bg_local, bg_no_repeat, bg_orange, bg_orange_dark, bg_orange_darker, bg_orange_darkest, bg_orange_light, bg_orange_lighter, bg_orange_lightest, bg_pink, bg_pink_dark, bg_pink_darker, bg_pink_darkest, bg_pink_light, bg_pink_lighter, bg_pink_lightest, bg_purple, bg_purple_dark, bg_purple_darker, bg_purple_darkest, bg_purple_light, bg_purple_lighter, bg_purple_lightest, bg_red, bg_red_dark, bg_red_darker, bg_red_darkest, bg_red_light, bg_red_lighter, bg_red_lightest, bg_repeat, bg_repeat_x, bg_repeat_y, bg_right, bg_right_bottom, bg_right_top, bg_scroll, bg_teal, bg_teal_dark, bg_teal_darker, bg_teal_darkest, bg_teal_light, bg_teal_lighter, bg_teal_lightest, bg_top, bg_transparent, bg_white, bg_yellow, bg_yellow_dark, bg_yellow_darker, bg_yellow_darkest, bg_yellow_light, bg_yellow_lighter, bg_yellow_lightest, block, border, border_0, border_2, border_4, border_8, border_b, border_b_0, border_b_2, border_b_4, border_b_8, border_black, border_blue, border_blue_dark, border_blue_darker, border_blue_darkest, border_blue_light, border_blue_lighter, border_blue_lightest, border_collapse, border_dashed, border_dotted, border_green, border_green_dark, border_green_darker, border_green_darkest, border_green_light, border_green_lighter, border_green_lightest, border_grey, border_grey_dark, border_grey_darker, border_grey_darkest, border_grey_light, border_grey_lighter, border_grey_lightest, border_indigo, border_indigo_dark, border_indigo_darker, border_indigo_darkest, border_indigo_light, border_indigo_lighter, border_indigo_lightest, border_l, border_l_0, border_l_2, border_l_4, border_l_8, border_none, border_orange, border_orange_dark, border_orange_darker, border_orange_darkest, border_orange_light, border_orange_lighter, border_orange_lightest, border_pink, border_pink_dark, border_pink_darker, border_pink_darkest, border_pink_light, border_pink_lighter, border_pink_lightest, border_purple, border_purple_dark, border_purple_darker, border_purple_darkest, border_purple_light, border_purple_lighter, border_purple_lightest, border_r, border_r_0, border_r_2, border_r_4, border_r_8, border_red, border_red_dark, border_red_darker, border_red_darkest, border_red_light, border_red_lighter, border_red_lightest, border_separate, border_solid, border_t, border_t_0, border_t_2, border_t_4, border_t_8, border_teal, border_teal_dark, border_teal_darker, border_teal_darkest, border_teal_light, border_teal_lighter, border_teal_lightest, border_transparent, border_white, border_yellow, border_yellow_dark, border_yellow_darker, border_yellow_darkest, border_yellow_light, border_yellow_lighter, border_yellow_lightest, break_normal, break_words, capitalize, container, content_around, content_between, content_center, content_end, content_start, cursor_auto, cursor_default, cursor_move, cursor_not_allowed, cursor_pointer, cursor_wait, fill_current, fixed, flex, flex_1, flex_auto, flex_col, flex_col_reverse, flex_grow, flex_initial, flex_no_grow, flex_no_shrink, flex_no_wrap, flex_none, flex_row, flex_row_reverse, flex_shrink, flex_wrap, flex_wrap_reverse, float_left, float_none, float_right, focus__antialiased, focus__bg_black, focus__bg_blue_dark, focus__bg_blue_darker, focus__bg_blue_darkest, focus__bg_blue_light, focus__bg_blue_lighter, focus__bg_blue_lightest, focus__bg_blue, focus__bg_green_dark, focus__bg_green_darker, focus__bg_green_darkest, focus__bg_green_light, focus__bg_green_lighter, focus__bg_green_lightest, focus__bg_green, focus__bg_grey_dark, focus__bg_grey_darker, focus__bg_grey_darkest, focus__bg_grey_light, focus__bg_grey_lighter, focus__bg_grey_lightest, focus__bg_grey, focus__bg_indigo_dark, focus__bg_indigo_darker, focus__bg_indigo_darkest, focus__bg_indigo_light, focus__bg_indigo_lighter, focus__bg_indigo_lightest, focus__bg_indigo, focus__bg_orange_dark, focus__bg_orange_darker, focus__bg_orange_darkest, focus__bg_orange_light, focus__bg_orange_lighter, focus__bg_orange_lightest, focus__bg_orange, focus__bg_pink_dark, focus__bg_pink_darker, focus__bg_pink_darkest, focus__bg_pink_light, focus__bg_pink_lighter, focus__bg_pink_lightest, focus__bg_pink, focus__bg_purple_dark, focus__bg_purple_darker, focus__bg_purple_darkest, focus__bg_purple_light, focus__bg_purple_lighter, focus__bg_purple_lightest, focus__bg_purple, focus__bg_red_dark, focus__bg_red_darker, focus__bg_red_darkest, focus__bg_red_light, focus__bg_red_lighter, focus__bg_red_lightest, focus__bg_red, focus__bg_teal_dark, focus__bg_teal_darker, focus__bg_teal_darkest, focus__bg_teal_light, focus__bg_teal_lighter, focus__bg_teal_lightest, focus__bg_teal, focus__bg_transparent, focus__bg_white, focus__bg_yellow_dark, focus__bg_yellow_darker, focus__bg_yellow_darkest, focus__bg_yellow_light, focus__bg_yellow_lighter, focus__bg_yellow_lightest, focus__bg_yellow, focus__border_black, focus__border_blue_dark, focus__border_blue_darker, focus__border_blue_darkest, focus__border_blue_light, focus__border_blue_lighter, focus__border_blue_lightest, focus__border_blue, focus__border_green_dark, focus__border_green_darker, focus__border_green_darkest, focus__border_green_light, focus__border_green_lighter, focus__border_green_lightest, focus__border_green, focus__border_grey_dark, focus__border_grey_darker, focus__border_grey_darkest, focus__border_grey_light, focus__border_grey_lighter, focus__border_grey_lightest, focus__border_grey, focus__border_indigo_dark, focus__border_indigo_darker, focus__border_indigo_darkest, focus__border_indigo_light, focus__border_indigo_lighter, focus__border_indigo_lightest, focus__border_indigo, focus__border_orange_dark, focus__border_orange_darker, focus__border_orange_darkest, focus__border_orange_light, focus__border_orange_lighter, focus__border_orange_lightest, focus__border_orange, focus__border_pink_dark, focus__border_pink_darker, focus__border_pink_darkest, focus__border_pink_light, focus__border_pink_lighter, focus__border_pink_lightest, focus__border_pink, focus__border_purple_dark, focus__border_purple_darker, focus__border_purple_darkest, focus__border_purple_light, focus__border_purple_lighter, focus__border_purple_lightest, focus__border_purple, focus__border_red_dark, focus__border_red_darker, focus__border_red_darkest, focus__border_red_light, focus__border_red_lighter, focus__border_red_lightest, focus__border_red, focus__border_teal_dark, focus__border_teal_darker, focus__border_teal_darkest, focus__border_teal_light, focus__border_teal_lighter, focus__border_teal_lightest, focus__border_teal, focus__border_transparent, focus__border_white, focus__border_yellow_dark, focus__border_yellow_darker, focus__border_yellow_darkest, focus__border_yellow_light, focus__border_yellow_lighter, focus__border_yellow_lightest, focus__border_yellow, focus__capitalize, focus__font_black, focus__font_bold, focus__font_extrabold, focus__font_hairline, focus__font_light, focus__font_medium, focus__font_normal, focus__font_semibold, focus__font_thin, focus__italic, focus__line_through, focus__lowercase, focus__no_underline, focus__normal_case, focus__outline_none, focus__roman, focus__shadow_inner, focus__shadow_lg, focus__shadow_md, focus__shadow_none, focus__shadow_outline, focus__shadow, focus__subpixel_antialiased, focus__text_black, focus__text_blue_dark, focus__text_blue_darker, focus__text_blue_darkest, focus__text_blue_light, focus__text_blue_lighter, focus__text_blue_lightest, focus__text_blue, focus__text_green_dark, focus__text_green_darker, focus__text_green_darkest, focus__text_green_light, focus__text_green_lighter, focus__text_green_lightest, focus__text_green, focus__text_grey_dark, focus__text_grey_darker, focus__text_grey_darkest, focus__text_grey_light, focus__text_grey_lighter, focus__text_grey_lightest, focus__text_grey, focus__text_indigo_dark, focus__text_indigo_darker, focus__text_indigo_darkest, focus__text_indigo_light, focus__text_indigo_lighter, focus__text_indigo_lightest, focus__text_indigo, focus__text_orange_dark, focus__text_orange_darker, focus__text_orange_darkest, focus__text_orange_light, focus__text_orange_lighter, focus__text_orange_lightest, focus__text_orange, focus__text_pink_dark, focus__text_pink_darker, focus__text_pink_darkest, focus__text_pink_light, focus__text_pink_lighter, focus__text_pink_lightest, focus__text_pink, focus__text_purple_dark, focus__text_purple_darker, focus__text_purple_darkest, focus__text_purple_light, focus__text_purple_lighter, focus__text_purple_lightest, focus__text_purple, focus__text_red_dark, focus__text_red_darker, focus__text_red_darkest, focus__text_red_light, focus__text_red_lighter, focus__text_red_lightest, focus__text_red, focus__text_teal_dark, focus__text_teal_darker, focus__text_teal_darkest, focus__text_teal_light, focus__text_teal_lighter, focus__text_teal_lightest, focus__text_teal, focus__text_transparent, focus__text_white, focus__text_yellow_dark, focus__text_yellow_darker, focus__text_yellow_darkest, focus__text_yellow_light, focus__text_yellow_lighter, focus__text_yellow_lightest, focus__text_yellow, focus__underline, focus__uppercase, font_black, font_bold, font_extrabold, font_hairline, font_light, font_medium, font_mono, font_normal, font_sans, font_semibold, font_serif, font_thin, h_1, h_10, h_12, h_16, h_2, h_24, h_3, h_32, h_4, h_48, h_5, h_6, h_64, h_8, h_auto, h_full, h_px, h_screen, hidden, hover__antialiased, hover__bg_black, hover__bg_blue_dark, hover__bg_blue_darker, hover__bg_blue_darkest, hover__bg_blue_light, hover__bg_blue_lighter, hover__bg_blue_lightest, hover__bg_blue, hover__bg_green_dark, hover__bg_green_darker, hover__bg_green_darkest, hover__bg_green_light, hover__bg_green_lighter, hover__bg_green_lightest, hover__bg_green, hover__bg_grey_dark, hover__bg_grey_darker, hover__bg_grey_darkest, hover__bg_grey_light, hover__bg_grey_lighter, hover__bg_grey_lightest, hover__bg_grey, hover__bg_indigo_dark, hover__bg_indigo_darker, hover__bg_indigo_darkest, hover__bg_indigo_light, hover__bg_indigo_lighter, hover__bg_indigo_lightest, hover__bg_indigo, hover__bg_orange_dark, hover__bg_orange_darker, hover__bg_orange_darkest, hover__bg_orange_light, hover__bg_orange_lighter, hover__bg_orange_lightest, hover__bg_orange, hover__bg_pink_dark, hover__bg_pink_darker, hover__bg_pink_darkest, hover__bg_pink_light, hover__bg_pink_lighter, hover__bg_pink_lightest, hover__bg_pink, hover__bg_purple_dark, hover__bg_purple_darker, hover__bg_purple_darkest, hover__bg_purple_light, hover__bg_purple_lighter, hover__bg_purple_lightest, hover__bg_purple, hover__bg_red_dark, hover__bg_red_darker, hover__bg_red_darkest, hover__bg_red_light, hover__bg_red_lighter, hover__bg_red_lightest, hover__bg_red, hover__bg_teal_dark, hover__bg_teal_darker, hover__bg_teal_darkest, hover__bg_teal_light, hover__bg_teal_lighter, hover__bg_teal_lightest, hover__bg_teal, hover__bg_transparent, hover__bg_white, hover__bg_yellow_dark, hover__bg_yellow_darker, hover__bg_yellow_darkest, hover__bg_yellow_light, hover__bg_yellow_lighter, hover__bg_yellow_lightest, hover__bg_yellow, hover__border_black, hover__border_blue_dark, hover__border_blue_darker, hover__border_blue_darkest, hover__border_blue_light, hover__border_blue_lighter, hover__border_blue_lightest, hover__border_blue, hover__border_green_dark, hover__border_green_darker, hover__border_green_darkest, hover__border_green_light, hover__border_green_lighter, hover__border_green_lightest, hover__border_green, hover__border_grey_dark, hover__border_grey_darker, hover__border_grey_darkest, hover__border_grey_light, hover__border_grey_lighter, hover__border_grey_lightest, hover__border_grey, hover__border_indigo_dark, hover__border_indigo_darker, hover__border_indigo_darkest, hover__border_indigo_light, hover__border_indigo_lighter, hover__border_indigo_lightest, hover__border_indigo, hover__border_orange_dark, hover__border_orange_darker, hover__border_orange_darkest, hover__border_orange_light, hover__border_orange_lighter, hover__border_orange_lightest, hover__border_orange, hover__border_pink_dark, hover__border_pink_darker, hover__border_pink_darkest, hover__border_pink_light, hover__border_pink_lighter, hover__border_pink_lightest, hover__border_pink, hover__border_purple_dark, hover__border_purple_darker, hover__border_purple_darkest, hover__border_purple_light, hover__border_purple_lighter, hover__border_purple_lightest, hover__border_purple, hover__border_red_dark, hover__border_red_darker, hover__border_red_darkest, hover__border_red_light, hover__border_red_lighter, hover__border_red_lightest, hover__border_red, hover__border_teal_dark, hover__border_teal_darker, hover__border_teal_darkest, hover__border_teal_light, hover__border_teal_lighter, hover__border_teal_lightest, hover__border_teal, hover__border_transparent, hover__border_white, hover__border_yellow_dark, hover__border_yellow_darker, hover__border_yellow_darkest, hover__border_yellow_light, hover__border_yellow_lighter, hover__border_yellow_lightest, hover__border_yellow, hover__capitalize, hover__font_black, hover__font_bold, hover__font_extrabold, hover__font_hairline, hover__font_light, hover__font_medium, hover__font_normal, hover__font_semibold, hover__font_thin, hover__italic, hover__line_through, hover__lowercase, hover__no_underline, hover__normal_case, hover__roman, hover__shadow_inner, hover__shadow_lg, hover__shadow_md, hover__shadow_none, hover__shadow_outline, hover__shadow, hover__subpixel_antialiased, hover__text_black, hover__text_blue_dark, hover__text_blue_darker, hover__text_blue_darkest, hover__text_blue_light, hover__text_blue_lighter, hover__text_blue_lightest, hover__text_blue, hover__text_green_dark, hover__text_green_darker, hover__text_green_darkest, hover__text_green_light, hover__text_green_lighter, hover__text_green_lightest, hover__text_green, hover__text_grey_dark, hover__text_grey_darker, hover__text_grey_darkest, hover__text_grey_light, hover__text_grey_lighter, hover__text_grey_lightest, hover__text_grey, hover__text_indigo_dark, hover__text_indigo_darker, hover__text_indigo_darkest, hover__text_indigo_light, hover__text_indigo_lighter, hover__text_indigo_lightest, hover__text_indigo, hover__text_orange_dark, hover__text_orange_darker, hover__text_orange_darkest, hover__text_orange_light, hover__text_orange_lighter, hover__text_orange_lightest, hover__text_orange, hover__text_pink_dark, hover__text_pink_darker, hover__text_pink_darkest, hover__text_pink_light, hover__text_pink_lighter, hover__text_pink_lightest, hover__text_pink, hover__text_purple_dark, hover__text_purple_darker, hover__text_purple_darkest, hover__text_purple_light, hover__text_purple_lighter, hover__text_purple_lightest, hover__text_purple, hover__text_red_dark, hover__text_red_darker, hover__text_red_darkest, hover__text_red_light, hover__text_red_lighter, hover__text_red_lightest, hover__text_red, hover__text_teal_dark, hover__text_teal_darker, hover__text_teal_darkest, hover__text_teal_light, hover__text_teal_lighter, hover__text_teal_lightest, hover__text_teal, hover__text_transparent, hover__text_white, hover__text_yellow_dark, hover__text_yellow_darker, hover__text_yellow_darkest, hover__text_yellow_light, hover__text_yellow_lighter, hover__text_yellow_lightest, hover__text_yellow, hover__underline, hover__uppercase, inline, inline_block, inline_flex, invisible, italic, items_baseline, items_center, items_end, items_start, items_stretch, justify_around, justify_between, justify_center, justify_end, justify_start, leading_loose, leading_none, leading_normal, leading_tight, line_through, list_reset, lowercase, m_0, m_1, m_10, m_12, m_16, m_2, m_20, m_24, m_3, m_32, m_4, m_5, m_6, m_8, m_auto, m_px, max_h_full, max_h_screen, max_w_2xl, max_w_3xl, max_w_4xl, max_w_5xl, max_w_full, max_w_lg, max_w_md, max_w_sm, max_w_xl, max_w_xs, mb_0, mb_1, mb_10, mb_12, mb_16, mb_2, mb_20, mb_24, mb_3, mb_32, mb_4, mb_5, mb_6, mb_8, mb_auto, mb_px, min_h_0, min_h_full, min_h_screen, min_w_0, min_w_full, ml_0, ml_1, ml_10, ml_12, ml_16, ml_2, ml_20, ml_24, ml_3, ml_32, ml_4, ml_5, ml_6, ml_8, ml_auto, ml_px, mr_0, mr_1, mr_10, mr_12, mr_16, mr_2, mr_20, mr_24, mr_3, mr_32, mr_4, mr_5, mr_6, mr_8, mr_auto, mr_px, mt_0, mt_1, mt_10, mt_12, mt_16, mt_2, mt_20, mt_24, mt_3, mt_32, mt_4, mt_5, mt_6, mt_8, mt_auto, mt_px, mx_0, mx_1, mx_10, mx_12, mx_16, mx_2, mx_20, mx_24, mx_3, mx_32, mx_4, mx_5, mx_6, mx_8, mx_auto, mx_px, my_0, my_1, my_10, my_12, my_16, my_2, my_20, my_24, my_3, my_32, my_4, my_5, my_6, my_8, my_auto, my_px, no_underline, normal_case, opacity_0, opacity_100, opacity_25, opacity_50, opacity_75, outline_none, overflow_auto, overflow_hidden, overflow_scroll, overflow_visible, overflow_x_auto, overflow_x_hidden, overflow_x_scroll, overflow_x_visible, overflow_y_auto, overflow_y_hidden, overflow_y_scroll, overflow_y_visible, p_0, p_1, p_10, p_12, p_16, p_2, p_20, p_24, p_3, p_32, p_4, p_5, p_6, p_8, p_px, pb_0, pb_1, pb_10, pb_12, pb_16, pb_2, pb_20, pb_24, pb_3, pb_32, pb_4, pb_5, pb_6, pb_8, pb_px, pin, pin_b, pin_l, pin_none, pin_r, pin_t, pin_x, pin_y, pl_0, pl_1, pl_10, pl_12, pl_16, pl_2, pl_20, pl_24, pl_3, pl_32, pl_4, pl_5, pl_6, pl_8, pl_px, pointer_events_auto, pointer_events_none, pr_0, pr_1, pr_10, pr_12, pr_16, pr_2, pr_20, pr_24, pr_3, pr_32, pr_4, pr_5, pr_6, pr_8, pr_px, pt_0, pt_1, pt_10, pt_12, pt_16, pt_2, pt_20, pt_24, pt_3, pt_32, pt_4, pt_5, pt_6, pt_8, pt_px, px_0, px_1, px_10, px_12, px_16, px_2, px_20, px_24, px_3, px_32, px_4, px_5, px_6, px_8, px_px, py_0, py_1, py_10, py_12, py_16, py_2, py_20, py_24, py_3, py_32, py_4, py_5, py_6, py_8, py_px, relative, resize, resize_none, resize_x, resize_y, roman, rounded, rounded_b, rounded_b_full, rounded_b_lg, rounded_b_none, rounded_b_sm, rounded_bl, rounded_bl_full, rounded_bl_lg, rounded_bl_none, rounded_bl_sm, rounded_br, rounded_br_full, rounded_br_lg, rounded_br_none, rounded_br_sm, rounded_full, rounded_l, rounded_l_full, rounded_l_lg, rounded_l_none, rounded_l_sm, rounded_lg, rounded_none, rounded_r, rounded_r_full, rounded_r_lg, rounded_r_none, rounded_r_sm, rounded_sm, rounded_t, rounded_t_full, rounded_t_lg, rounded_t_none, rounded_t_sm, rounded_tl, rounded_tl_full, rounded_tl_lg, rounded_tl_none, rounded_tl_sm, rounded_tr, rounded_tr_full, rounded_tr_lg, rounded_tr_none, rounded_tr_sm, scrolling_auto, scrolling_touch, select_none, select_text, self_auto, self_center, self_end, self_start, self_stretch, shadow, shadow_inner, shadow_lg, shadow_md, shadow_none, shadow_outline, static, sticky, stroke_current, subpixel_antialiased, table, table_cell, table_row, text_2xl, text_3xl, text_4xl, text_5xl, text_base, text_black, text_blue, text_blue_dark, text_blue_darker, text_blue_darkest, text_blue_light, text_blue_lighter, text_blue_lightest, text_center, text_green, text_green_dark, text_green_darker, text_green_darkest, text_green_light, text_green_lighter, text_green_lightest, text_grey, text_grey_dark, text_grey_darker, text_grey_darkest, text_grey_light, text_grey_lighter, text_grey_lightest, text_indigo, text_indigo_dark, text_indigo_darker, text_indigo_darkest, text_indigo_light, text_indigo_lighter, text_indigo_lightest, text_justify, text_left, text_lg, text_orange, text_orange_dark, text_orange_darker, text_orange_darkest, text_orange_light, text_orange_lighter, text_orange_lightest, text_pink, text_pink_dark, text_pink_darker, text_pink_darkest, text_pink_light, text_pink_lighter, text_pink_lightest, text_purple, text_purple_dark, text_purple_darker, text_purple_darkest, text_purple_light, text_purple_lighter, text_purple_lightest, text_red, text_red_dark, text_red_darker, text_red_darkest, text_red_light, text_red_lighter, text_red_lightest, text_right, text_sm, text_teal, text_teal_dark, text_teal_darker, text_teal_darkest, text_teal_light, text_teal_lighter, text_teal_lightest, text_transparent, text_white, text_xl, text_xs, text_yellow, text_yellow_dark, text_yellow_darker, text_yellow_darkest, text_yellow_light, text_yellow_lighter, text_yellow_lightest, tracking_normal, tracking_tight, tracking_wide, truncate, underline, uppercase, visible, w_1, w_1over2, w_1over3, w_1over4, w_1over5, w_1over6, w_10, w_12, w_16, w_2, w_2over3, w_2over5, w_24, w_3, w_3over4, w_3over5, w_32, w_4, w_4over5, w_48, w_5, w_5over6, w_6, w_64, w_8, w_auto, w_full, w_px, w_screen, whitespace_no_wrap, whitespace_normal, whitespace_pre, whitespace_pre_line, whitespace_pre_wrap, z_0, z_10, z_20, z_30, z_40, z_50, z_auto
 
 -}
 
@@ -17399,6 +17399,71 @@ w_1 =
 
 {-| This class maps to this CSS definition:
 
+    .w-1\/2 {
+      width: 50%;
+    }
+
+-}
+w_1over2 : TailwindClass
+w_1over2 =
+    TailwindClass "w-1/2"
+
+
+
+{-| This class maps to this CSS definition:
+
+    .w-1\/3 {
+      width: 33.33333%;
+    }
+
+-}
+w_1over3 : TailwindClass
+w_1over3 =
+    TailwindClass "w-1/3"
+
+
+
+{-| This class maps to this CSS definition:
+
+    .w-1\/4 {
+      width: 25%;
+    }
+
+-}
+w_1over4 : TailwindClass
+w_1over4 =
+    TailwindClass "w-1/4"
+
+
+
+{-| This class maps to this CSS definition:
+
+    .w-1\/5 {
+      width: 20%;
+    }
+
+-}
+w_1over5 : TailwindClass
+w_1over5 =
+    TailwindClass "w-1/5"
+
+
+
+{-| This class maps to this CSS definition:
+
+    .w-1\/6 {
+      width: 16.66667%;
+    }
+
+-}
+w_1over6 : TailwindClass
+w_1over6 =
+    TailwindClass "w-1/6"
+
+
+
+{-| This class maps to this CSS definition:
+
     .w-10 {
       width: 2.5rem;
     }
@@ -17438,71 +17503,6 @@ w_16 =
 
 {-| This class maps to this CSS definition:
 
-    .w-1\/2 {
-      width: 50%;
-    }
-
--}
-w_1over2 : TailwindClass
-w_1over2 =
-    TailwindClass "w-1\\/2"
-
-
-
-{-| This class maps to this CSS definition:
-
-    .w-1\/3 {
-      width: 33.33333%;
-    }
-
--}
-w_1over3 : TailwindClass
-w_1over3 =
-    TailwindClass "w-1\\/3"
-
-
-
-{-| This class maps to this CSS definition:
-
-    .w-1\/4 {
-      width: 25%;
-    }
-
--}
-w_1over4 : TailwindClass
-w_1over4 =
-    TailwindClass "w-1\\/4"
-
-
-
-{-| This class maps to this CSS definition:
-
-    .w-1\/5 {
-      width: 20%;
-    }
-
--}
-w_1over5 : TailwindClass
-w_1over5 =
-    TailwindClass "w-1\\/5"
-
-
-
-{-| This class maps to this CSS definition:
-
-    .w-1\/6 {
-      width: 16.66667%;
-    }
-
--}
-w_1over6 : TailwindClass
-w_1over6 =
-    TailwindClass "w-1\\/6"
-
-
-
-{-| This class maps to this CSS definition:
-
     .w-2 {
       width: .5rem;
     }
@@ -17511,6 +17511,32 @@ w_1over6 =
 w_2 : TailwindClass
 w_2 =
     TailwindClass "w-2"
+
+
+
+{-| This class maps to this CSS definition:
+
+    .w-2\/3 {
+      width: 66.66667%;
+    }
+
+-}
+w_2over3 : TailwindClass
+w_2over3 =
+    TailwindClass "w-2/3"
+
+
+
+{-| This class maps to this CSS definition:
+
+    .w-2\/5 {
+      width: 40%;
+    }
+
+-}
+w_2over5 : TailwindClass
+w_2over5 =
+    TailwindClass "w-2/5"
 
 
 
@@ -17529,32 +17555,6 @@ w_24 =
 
 {-| This class maps to this CSS definition:
 
-    .w-2\/3 {
-      width: 66.66667%;
-    }
-
--}
-w_2over3 : TailwindClass
-w_2over3 =
-    TailwindClass "w-2\\/3"
-
-
-
-{-| This class maps to this CSS definition:
-
-    .w-2\/5 {
-      width: 40%;
-    }
-
--}
-w_2over5 : TailwindClass
-w_2over5 =
-    TailwindClass "w-2\\/5"
-
-
-
-{-| This class maps to this CSS definition:
-
     .w-3 {
       width: .75rem;
     }
@@ -17563,6 +17563,32 @@ w_2over5 =
 w_3 : TailwindClass
 w_3 =
     TailwindClass "w-3"
+
+
+
+{-| This class maps to this CSS definition:
+
+    .w-3\/4 {
+      width: 75%;
+    }
+
+-}
+w_3over4 : TailwindClass
+w_3over4 =
+    TailwindClass "w-3/4"
+
+
+
+{-| This class maps to this CSS definition:
+
+    .w-3\/5 {
+      width: 60%;
+    }
+
+-}
+w_3over5 : TailwindClass
+w_3over5 =
+    TailwindClass "w-3/5"
 
 
 
@@ -17581,32 +17607,6 @@ w_32 =
 
 {-| This class maps to this CSS definition:
 
-    .w-3\/4 {
-      width: 75%;
-    }
-
--}
-w_3over4 : TailwindClass
-w_3over4 =
-    TailwindClass "w-3\\/4"
-
-
-
-{-| This class maps to this CSS definition:
-
-    .w-3\/5 {
-      width: 60%;
-    }
-
--}
-w_3over5 : TailwindClass
-w_3over5 =
-    TailwindClass "w-3\\/5"
-
-
-
-{-| This class maps to this CSS definition:
-
     .w-4 {
       width: 1rem;
     }
@@ -17620,6 +17620,19 @@ w_4 =
 
 {-| This class maps to this CSS definition:
 
+    .w-4\/5 {
+      width: 80%;
+    }
+
+-}
+w_4over5 : TailwindClass
+w_4over5 =
+    TailwindClass "w-4/5"
+
+
+
+{-| This class maps to this CSS definition:
+
     .w-48 {
       width: 12rem;
     }
@@ -17628,19 +17641,6 @@ w_4 =
 w_48 : TailwindClass
 w_48 =
     TailwindClass "w-48"
-
-
-
-{-| This class maps to this CSS definition:
-
-    .w-4\/5 {
-      width: 80%;
-    }
-
--}
-w_4over5 : TailwindClass
-w_4over5 =
-    TailwindClass "w-4\\/5"
 
 
 
@@ -17666,7 +17666,7 @@ w_5 =
 -}
 w_5over6 : TailwindClass
 w_5over6 =
-    TailwindClass "w-5\\/6"
+    TailwindClass "w-5/6"
 
 
 
